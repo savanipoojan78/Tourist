@@ -1,16 +1,16 @@
 {
     "logs": [
         {
-            "outputFile": "F:\\XYZTouristAttractions\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw400dp-v13\\values-sw400dp-v13.xml",
+            "outputFile": "E:\\TouristAttractions\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw400dp-v13\\values-sw400dp-v13.xml",
             "map": [
                 {
-                    "source": "F:\\XYZTouristAttractions\\Application\\src\\main\\res\\values-sw400dp\\dimens.xml",
+                    "source": "E:\\TouristAttractions\\Application\\src\\main\\res\\values-sw400dp\\dimens.xml",
                     "from": {
                         "startLines": "22,21,19,18,20",
                         "startColumns": "4,4,4,4,4",
-                        "startOffsets": "799,756,670,623,714",
+                        "startOffsets": "821,777,689,641,734",
                         "endColumns": "40,42,43,46,41",
-                        "endOffsets": "835,794,709,665,751"
+                        "endOffsets": "857,815,728,683,771"
                     },
                     "to": {
                         "startLines": "2,3,4,5,6",

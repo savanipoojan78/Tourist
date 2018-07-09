@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "F:\\XYZTouristAttractions\\Wearable\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw\\values-sw.xml",
+            "outputFile": "E:\\TouristAttractions\\Wearable\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw\\values-sw.xml",
             "map": [
                 {
                     "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\6c1ba0e129b864a12b701b85721c42fa\\res\\values-sw\\values.xml",

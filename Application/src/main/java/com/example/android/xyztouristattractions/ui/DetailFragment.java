@@ -35,9 +35,9 @@ import android.widget.TextView;
 import com.bumptech.glide.Glide;
 import com.bumptech.glide.load.engine.DiskCacheStrategy;
 import com.example.android.xyztouristattractions.R;
-import com.example.android.xyztouristattractions.common.Attraction;
-import com.example.android.xyztouristattractions.common.Constants;
-import com.example.android.xyztouristattractions.common.Utils;
+import com.example.android.xyztouristattractions.Attraction;
+import com.example.android.xyztouristattractions.Constants;
+import com.example.android.xyztouristattractions.Utils;
 import com.google.android.gms.maps.model.LatLng;
 
 import java.util.List;

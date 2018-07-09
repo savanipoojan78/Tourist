@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "F:\\XYZTouristAttractions\\Wearable\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w160dp-v13\\values-w160dp-v13.xml",
+            "outputFile": "E:\\TouristAttractions\\Wearable\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w160dp-v13\\values-w160dp-v13.xml",
             "map": [
                 {
                     "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.3.0.aar\\b91f3f6bad7fc3cdc6a5819b9577303d\\res\\values-w160dp-v13\\values.xml",

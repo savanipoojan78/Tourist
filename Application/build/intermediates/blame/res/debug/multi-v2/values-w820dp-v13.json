@@ -1,16 +1,16 @@
 {
     "logs": [
         {
-            "outputFile": "F:\\XYZTouristAttractions\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
+            "outputFile": "E:\\TouristAttractions\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
             "map": [
                 {
-                    "source": "F:\\XYZTouristAttractions\\Application\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "source": "E:\\TouristAttractions\\Application\\src\\main\\res\\values-w820dp\\dimens.xml",
                     "from": {
                         "startLines": "18",
                         "startColumns": "4",
-                        "startOffsets": "623",
+                        "startOffsets": "641",
                         "endColumns": "44",
-                        "endOffsets": "663"
+                        "endOffsets": "681"
                     },
                     "to": {
                         "startLines": "2",

@@ -1,17 +1,17 @@
 {
     "logs": [
         {
-            "outputFile": "F:\\XYZTouristAttractions\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
+            "outputFile": "E:\\TouristAttractions\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
             "map": [
                 {
-                    "source": "F:\\XYZTouristAttractions\\Application\\src\\main\\res\\values-v21\\base-template-styles.xml",
+                    "source": "E:\\TouristAttractions\\Application\\src\\main\\res\\values-v21\\base-template-styles.xml",
                     "from": {
                         "startLines": "20",
                         "startColumns": "4",
-                        "startOffsets": "677",
+                        "startOffsets": "697",
                         "endLines": "21",
                         "endColumns": "12",
-                        "endOffsets": "753"
+                        "endOffsets": "774"
                     },
                     "to": {
                         "startLines": "284",
@@ -20,6 +20,25 @@
                         "endLines": "285",
                         "endColumns": "12",
                         "endOffsets": "20849"
+                    }
+                },
+                {
+                    "source": "E:\\TouristAttractions\\Application\\src\\main\\res\\values-v21\\styles.xml",
+                    "from": {
+                        "startLines": "18",
+                        "startColumns": "4",
+                        "startOffsets": "641",
+                        "endLines": "30",
+                        "endColumns": "12",
+                        "endOffsets": "1585"
+                    },
+                    "to": {
+                        "startLines": "294",
+                        "startColumns": "4",
+                        "startOffsets": "21364",
+                        "endLines": "306",
+                        "endColumns": "12",
+                        "endOffsets": "22296"
                     }
                 },
                 {
@@ -42,6 +61,23 @@
                     }
                 },
                 {
+                    "source": "E:\\TouristAttractions\\Application\\src\\main\\res\\values-v21\\dimens.xml",
+                    "from": {
+                        "startLines": "19",
+                        "startColumns": "4",
+                        "startOffsets": "681",
+                        "endColumns": "40",
+                        "endOffsets": "717"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "159",
+                        "endColumns": "40",
+                        "endOffsets": "195"
+                    }
+                },
+                {
                     "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\459b0870deddad7aaaa579c1b1f90971\\res\\values-v21\\values-v21.xml",
                     "from": {
                         "startLines": "2,5",
@@ -58,25 +94,6 @@
                         "endLines": "167,229",
                         "endColumns": "12,96",
                         "endOffsets": "12821,17257"
-                    }
-                },
-                {
-                    "source": "F:\\XYZTouristAttractions\\Application\\src\\main\\res\\values-v21\\styles.xml",
-                    "from": {
-                        "startLines": "18",
-                        "startColumns": "4",
-                        "startOffsets": "623",
-                        "endLines": "30",
-                        "endColumns": "12",
-                        "endOffsets": "1555"
-                    },
-                    "to": {
-                        "startLines": "294",
-                        "startColumns": "4",
-                        "startOffsets": "21364",
-                        "endLines": "306",
-                        "endColumns": "12",
-                        "endOffsets": "22296"
                     }
                 },
                 {
@@ -115,23 +132,6 @@
                         "endLines": "7,8,9,10,11,12,13,14,15,16,17,18,19,21,23,24,25,26,28,30,31,32,33,34,36,38,40,42,44,46,47,52,54,56,57,58,60,62,63,64,65,66,67,111,114,158,161,164,169,171,173,176,178,181,182,183,186,187,188,189,190,191,194,195,197,199,201,203,207,209,210,211,212,214,218,220,222,223,224,225,226,228,230,231,241,242,243,255,267",
                         "endColumns": "90,102,102,104,106,108,108,108,108,108,106,102,118,12,12,104,120,100,12,12,102,118,106,102,12,12,12,12,12,12,118,12,12,12,111,146,12,12,74,88,86,100,102,12,12,12,12,12,12,12,12,12,12,12,88,110,12,100,94,122,128,116,12,98,12,12,12,12,12,12,92,110,55,12,12,12,12,94,90,90,116,12,70,82,12,56,57,12,12",
                         "endOffsets": "481,584,687,792,899,1008,1117,1226,1335,1444,1551,1654,1773,1928,2083,2188,2309,2410,2557,2698,2801,2920,3027,3130,3285,3456,3605,3770,3927,4078,4197,4569,4718,4867,4979,5126,5279,5426,5501,5590,5677,5778,5881,8949,9134,12214,12411,12610,12944,13067,13180,13363,13494,13695,13784,13895,14128,14229,14324,14447,14576,14693,14870,14969,15104,15247,15382,15501,15702,15821,15914,16025,16081,16188,16383,16494,16627,16722,16813,16904,17021,17160,17328,17411,18091,18148,18206,18900,19606"
-                    }
-                },
-                {
-                    "source": "F:\\XYZTouristAttractions\\Application\\src\\main\\res\\values-v21\\dimens.xml",
-                    "from": {
-                        "startLines": "19",
-                        "startColumns": "4",
-                        "startOffsets": "662",
-                        "endColumns": "40",
-                        "endOffsets": "698"
-                    },
-                    "to": {
-                        "startLines": "3",
-                        "startColumns": "4",
-                        "startOffsets": "159",
-                        "endColumns": "40",
-                        "endOffsets": "195"
                     }
                 }
             ]

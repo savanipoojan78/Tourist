@@ -18,7 +18,7 @@ package com.example.android.xyztouristattractions.provider;
 
 import android.net.Uri;
 
-import com.example.android.xyztouristattractions.common.Attraction;
+import com.example.android.xyztouristattractions.Attraction;
 import com.google.android.gms.location.Geofence;
 import com.google.android.gms.maps.model.LatLng;
 import com.google.maps.android.SphericalUtil;

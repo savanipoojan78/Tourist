@@ -29,7 +29,7 @@ import android.view.View;
 import android.widget.Toast;
 
 import com.example.android.xyztouristattractions.R;
-import com.example.android.xyztouristattractions.common.Utils;
+import com.example.android.xyztouristattractions.Utils;
 import com.example.android.xyztouristattractions.service.UtilityService;
 
 /**

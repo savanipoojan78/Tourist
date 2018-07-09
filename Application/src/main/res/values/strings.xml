@@ -16,7 +16,7 @@
   -->
 
 <resources>
-
+    <string name="show_detail_capability_name">show_details</string>
     <string name="empty_list">No attractions found nearby!</string>
     <string name="nearby_attraction">Nearby tourist attraction</string>
     <string name="action_test_notification">Test Notification</string>

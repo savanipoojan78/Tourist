@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "F:\\XYZTouristAttractions\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+            "outputFile": "E:\\TouristAttractions\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
             "map": [
                 {
                     "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\459b0870deddad7aaaa579c1b1f90971\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
@@ -23,13 +23,13 @@
                     }
                 },
                 {
-                    "source": "F:\\XYZTouristAttractions\\Application\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "source": "E:\\TouristAttractions\\Application\\src\\main\\res\\values-sw600dp\\dimens.xml",
                     "from": {
                         "startLines": "21,22,19,18,20",
                         "startColumns": "4,4,4,4,4",
-                        "startOffsets": "756,799,670,623,714",
+                        "startOffsets": "777,821,689,641,734",
                         "endColumns": "42,39,43,46,41",
-                        "endOffsets": "794,834,709,665,751"
+                        "endOffsets": "815,856,728,683,771"
                     },
                     "to": {
                         "startLines": "19,20,21,22,23",
@@ -50,14 +50,14 @@
                     }
                 },
                 {
-                    "source": "F:\\XYZTouristAttractions\\Application\\src\\main\\res\\values-sw600dp\\template-styles.xml",
+                    "source": "E:\\TouristAttractions\\Application\\src\\main\\res\\values-sw600dp\\template-styles.xml",
                     "from": {
                         "startLines": "18",
                         "startColumns": "4",
-                        "startOffsets": "621",
+                        "startOffsets": "639",
                         "endLines": "22",
                         "endColumns": "12",
-                        "endOffsets": "861"
+                        "endOffsets": "883"
                     },
                     "to": {
                         "startLines": "30",
@@ -69,13 +69,13 @@
                     }
                 },
                 {
-                    "source": "F:\\XYZTouristAttractions\\Application\\src\\main\\res\\values-sw600dp\\template-dimens.xml",
+                    "source": "E:\\TouristAttractions\\Application\\src\\main\\res\\values-sw600dp\\template-dimens.xml",
                     "from": {
                         "startLines": "20,21",
                         "startColumns": "4,4",
-                        "startOffsets": "656,724",
+                        "startOffsets": "676,745",
                         "endColumns": "67,67",
-                        "endOffsets": "719,787"
+                        "endOffsets": "739,808"
                     },
                     "to": {
                         "startLines": "18,24",
