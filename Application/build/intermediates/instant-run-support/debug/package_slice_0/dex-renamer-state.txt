@@ -1,0 +1,4 @@
+#Mon Jul 09 14:45:22 IST 2018
+base.0=F\:\\XYZTouristAttractions\\Application\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
