@@ -7,4 +7,10 @@
     android:layout_height="match_parent"
     tools:context=".ui.AttractionListActivity">
 
+    <android.support.design.internal.BottomNavigationMenuView
+        android:layout_height="56dp"
+        android:layout_width="wrap_content"/>
+
+
+
 </android.support.design.widget.CoordinatorLayout>

@@ -6,5 +6,8 @@
     <string name="permission_explanation">Allow this app to use your location to show distance to attractions?</string>
     <string name="permission_explanation_action">Let\'s do it!</string>
     <string name="JalMahal">Jal Mahal</string>
+    <string name="places">Places</string>
+    <string name="hotel">Hotels</string>
+    <string name="Restaurant">Restaurant</string>
 
 </resources>
