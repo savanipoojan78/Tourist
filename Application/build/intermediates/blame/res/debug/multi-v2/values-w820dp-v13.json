@@ -6,11 +6,11 @@
                 {
                     "source": "E:\\TouristAttractions\\Application\\src\\main\\res\\values-w820dp\\dimens.xml",
                     "from": {
-                        "startLines": "18",
+                        "startLines": "2",
                         "startColumns": "4",
-                        "startOffsets": "641",
+                        "startOffsets": "19",
                         "endColumns": "44",
-                        "endOffsets": "681"
+                        "endOffsets": "59"
                     },
                     "to": {
                         "startLines": "2",

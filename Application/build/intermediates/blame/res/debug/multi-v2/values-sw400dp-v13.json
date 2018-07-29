@@ -6,11 +6,11 @@
                 {
                     "source": "E:\\TouristAttractions\\Application\\src\\main\\res\\values-sw400dp\\dimens.xml",
                     "from": {
-                        "startLines": "22,21,19,18,20",
+                        "startLines": "6,5,3,2,4",
                         "startColumns": "4,4,4,4,4",
-                        "startOffsets": "821,777,689,641,734",
+                        "startOffsets": "199,155,67,19,112",
                         "endColumns": "40,42,43,46,41",
-                        "endOffsets": "857,815,728,683,771"
+                        "endOffsets": "235,193,106,61,149"
                     },
                     "to": {
                         "startLines": "2,3,4,5,6",
