@@ -4,6 +4,25 @@
             "outputFile": "E:\\TouristAttractions\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
             "map": [
                 {
+                    "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\7a911a03e2395c02d24012b1847e9116\\res\\values-v21\\values-v21.xml",
+                    "from": {
+                        "startLines": "2,5,8,11",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,223,386,554",
+                        "endLines": "4,7,10,13",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "218,381,549,716"
+                    },
+                    "to": {
+                        "startLines": "270,273,277,281",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "19853,20021,20310,20606",
+                        "endLines": "272,275,279,283",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "20016,20179,20473,20768"
+                    }
+                },
+                {
                     "source": "E:\\TouristAttractions\\Application\\src\\main\\res\\values-v21\\base-template-styles.xml",
                     "from": {
                         "startLines": "5",
@@ -25,12 +44,12 @@
                 {
                     "source": "E:\\TouristAttractions\\Application\\src\\main\\res\\values-v21\\styles.xml",
                     "from": {
-                        "startLines": "18",
+                        "startLines": "2",
                         "startColumns": "4",
-                        "startOffsets": "641",
-                        "endLines": "30",
+                        "startOffsets": "19",
+                        "endLines": "14",
                         "endColumns": "12",
-                        "endOffsets": "1585"
+                        "endOffsets": "963"
                     },
                     "to": {
                         "startLines": "294",
@@ -39,25 +58,6 @@
                         "endLines": "306",
                         "endColumns": "12",
                         "endOffsets": "22296"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.0.aar\\df4a584bbf5cdcc09b88721de36e3457\\res\\values-v21\\values-v21.xml",
-                    "from": {
-                        "startLines": "2,5,8,11",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,223,386,554",
-                        "endLines": "4,7,10,13",
-                        "endColumns": "12,12,12,12",
-                        "endOffsets": "218,381,549,716"
-                    },
-                    "to": {
-                        "startLines": "270,273,277,281",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "19853,20021,20310,20606",
-                        "endLines": "272,275,279,283",
-                        "endColumns": "12,12,12,12",
-                        "endOffsets": "20016,20179,20473,20768"
                     }
                 },
                 {
@@ -97,7 +97,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\a2d93107b5d602e3aae14c95777f856e\\res\\values-v21\\values-v21.xml",
+                    "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d867fe426855a77b9596f076698593c6\\res\\values-v21\\values-v21.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,13",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4",

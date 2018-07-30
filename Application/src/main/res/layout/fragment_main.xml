@@ -6,15 +6,7 @@
     android:orientation="vertical"
     tools:context=".AttractionListFragment">
 
-    <android.support.design.widget.BottomNavigationView
-        android:layout_width="match_parent"
-        android:layout_height="56dp"
-        android:layout_alignParentBottom="true"
-        android:layout_alignParentStart="true"
-        app:itemBackground="@color/colorPrimary"
-        app:itemIconTint="@color/nav_color"
-        app:itemTextColor="@color/nav_color"
-        app:menu="@menu/nev_menu"/>
+
 
     <com.example.android.xyztouristattractions.ui.AttractionsRecyclerView
         android:id="@android:id/list"

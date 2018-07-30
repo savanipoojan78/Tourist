@@ -52,12 +52,12 @@
                 {
                     "source": "E:\\TouristAttractions\\Application\\src\\main\\res\\values-sw600dp\\template-styles.xml",
                     "from": {
-                        "startLines": "18",
+                        "startLines": "2",
                         "startColumns": "4",
-                        "startOffsets": "639",
-                        "endLines": "22",
+                        "startOffsets": "19",
+                        "endLines": "6",
                         "endColumns": "12",
-                        "endOffsets": "883"
+                        "endOffsets": "263"
                     },
                     "to": {
                         "startLines": "30",
@@ -71,11 +71,11 @@
                 {
                     "source": "E:\\TouristAttractions\\Application\\src\\main\\res\\values-sw600dp\\template-dimens.xml",
                     "from": {
-                        "startLines": "20,21",
+                        "startLines": "5,6",
                         "startColumns": "4,4",
-                        "startOffsets": "676,745",
+                        "startOffsets": "58,127",
                         "endColumns": "67,67",
-                        "endOffsets": "739,808"
+                        "endOffsets": "121,190"
                     },
                     "to": {
                         "startLines": "18,24",

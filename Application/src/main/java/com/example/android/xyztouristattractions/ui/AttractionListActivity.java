@@ -19,13 +19,18 @@ package com.example.android.xyztouristattractions.ui;
 import android.Manifest;
 import android.content.pm.PackageManager;
 import android.os.Bundle;
+import android.support.annotation.NonNull;
+import android.support.design.widget.BottomNavigationView;
 import android.support.design.widget.Snackbar;
 import android.support.v4.app.ActivityCompat;
+import android.support.v4.app.Fragment;
+import android.support.v4.app.FragmentTransaction;
 import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
+import android.widget.FrameLayout;
 import android.widget.Toast;
 
 import com.example.android.xyztouristattractions.R;
@@ -40,11 +45,38 @@ public class AttractionListActivity extends AppCompatActivity implements
         ActivityCompat.OnRequestPermissionsResultCallback {
 
     private static final int PERMISSION_REQ = 0;
+    private BottomNavigationView nav;
+    private FrameLayout frameLayout;
+    private AttractionListFragment attractionListFragment;
+    private Hotel hotel;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        nav=(BottomNavigationView)findViewById(R.id.bottomnav);
+        frameLayout=(FrameLayout)findViewById(R.id.container);
+        hotel=new Hotel();
+        attractionListFragment=new AttractionListFragment();
+        nav.setOnNavigationItemSelectedListener(new BottomNavigationView.OnNavigationItemSelectedListener() {
+            @Override
+            public boolean onNavigationItemSelected(@NonNull MenuItem item) {
+                switch (item.getItemId())
+                {
+                    case R.id.menu_place:
+                        setfragment(attractionListFragment);
+                        return true;
+                    case R.id.menu_hotel:
+                        setfragment(hotel);
+                        return true;
+                    case R.id.menu_restaurent:
+                        return true;
+                        default:
+                            return false;
+                }
+            }
+        });
 
         if (savedInstanceState == null) {
             getSupportFragmentManager().beginTransaction()
@@ -130,16 +162,10 @@ public class AttractionListActivity extends AppCompatActivity implements
                 })
                 .show();
     }
-
-    /**
-     * Show a basic debug dialog to provide more info on the built-in debug
-     * options.
-     */
-    private void showDebugDialog(int titleResId, int bodyResId) {
-        AlertDialog.Builder builder = new AlertDialog.Builder(this)
-                .setTitle(titleResId)
-                .setMessage(bodyResId)
-                .setPositiveButton(android.R.string.ok, null);
-        builder.create().show();
+    public void setfragment(Fragment fragment)
+    {
+        FragmentTransaction fragmentTransaction=getSupportFragmentManager().beginTransaction();
+        fragmentTransaction.replace(R.id.container,fragment);
+        fragmentTransaction.commit();
     }
 }

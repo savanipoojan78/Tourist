@@ -6,11 +6,11 @@
                 {
                     "source": "E:\\TouristAttractions\\Application\\src\\main\\res\\values-v11\\template-styles.xml",
                     "from": {
-                        "startLines": "19",
+                        "startLines": "3",
                         "startColumns": "4",
-                        "startOffsets": "669",
+                        "startOffsets": "49",
                         "endColumns": "65",
-                        "endOffsets": "730"
+                        "endOffsets": "110"
                     },
                     "to": {
                         "startLines": "2",
