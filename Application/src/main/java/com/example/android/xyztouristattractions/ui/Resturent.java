@@ -21,8 +21,9 @@ import com.bumptech.glide.load.engine.DiskCacheStrategy;
 import com.example.android.xyztouristattractions.Attraction;
 import com.example.android.xyztouristattractions.Constants;
 import com.example.android.xyztouristattractions.R;
+import com.example.android.xyztouristattractions.ResturentConstruction;
 import com.example.android.xyztouristattractions.Utils;
-import com.example.android.xyztouristattractions.provider.TouristAttractions;
+import com.example.android.xyztouristattractions.provider.ResturentAttractions;
 import com.example.android.xyztouristattractions.service.UtilityService;
 import com.google.android.gms.location.FusedLocationProviderApi;
 import com.google.android.gms.maps.model.LatLng;
@@ -32,7 +33,7 @@ import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
 
-import static com.example.android.xyztouristattractions.provider.TouristAttractions.ATTRACTIONS;
+import static com.example.android.xyztouristattractions.provider.ResturentAttractions.ResturentATTRACTIONS;
 
 /**
  * A simple {@link Fragment} subclass.
@@ -56,7 +57,7 @@ public class Resturent extends Fragment {
                 * Constants.IMAGE_ANIM_MULTIPLIER;
 
         mLatestLocation = Utils.getLocation(getActivity());
-        List<Attraction> attractions = loadAttractionsFromLocation(mLatestLocation);
+        List<ResturentConstruction> attractions = loadAttractionsFromLocation(mLatestLocation);
         mAdapter = new Resturent.AttractionAdapter(getActivity(), attractions);
 
         View view = inflater.inflate(R.layout.fragment_main, container, false);
@@ -96,15 +97,15 @@ public class Resturent extends Fragment {
         }
     };
 
-    private static List<Attraction> loadAttractionsFromLocation(final LatLng curLatLng) {
-        String closestCity = TouristAttractions.getClosestCity(curLatLng);
+    private static List<ResturentConstruction> loadAttractionsFromLocation(final LatLng curLatLng) {
+        String closestCity = ResturentAttractions.getClosestCity(curLatLng);
         if (closestCity != null) {
-            List<Attraction> attractions = ATTRACTIONS.get(closestCity);
+            List<ResturentConstruction> attractions = ResturentATTRACTIONS.get(closestCity);
             if (curLatLng != null) {
                 Collections.sort(attractions,
-                        new Comparator<Attraction>() {
+                        new Comparator<ResturentConstruction>() {
                             @Override
-                            public int compare(Attraction lhs, Attraction rhs) {
+                            public int compare(ResturentConstruction lhs, ResturentConstruction rhs) {
                                 double lhsDistance = SphericalUtil.computeDistanceBetween(
                                         lhs.location, curLatLng);
                                 double rhsDistance = SphericalUtil.computeDistanceBetween(
@@ -122,10 +123,10 @@ public class Resturent extends Fragment {
     private class AttractionAdapter extends RecyclerView.Adapter<Resturent.ViewHolder>
             implements Resturent.ItemClickListener {
 
-        public List<Attraction> mAttractionList;
+        public List<ResturentConstruction> mAttractionList;
         private Context mContext;
 
-        public AttractionAdapter(Context context, List<Attraction> attractions) {
+        public AttractionAdapter(Context context, List<ResturentConstruction> attractions) {
             super();
             mContext = context;
             mAttractionList = attractions;
@@ -134,13 +135,13 @@ public class Resturent extends Fragment {
         @Override
         public Resturent.ViewHolder onCreateViewHolder(ViewGroup parent, int viewType) {
             LayoutInflater inflater = LayoutInflater.from(mContext);
-            View view = inflater.inflate(R.layout.list_row, parent, false);
+            View view = inflater.inflate(R.layout.list_resturent, parent, false);
             return new Resturent.ViewHolder(view, this);
         }
 
         @Override
         public void onBindViewHolder(Resturent.ViewHolder holder, int position) {
-            Attraction attraction = mAttractionList.get(position);
+            ResturentConstruction attraction = mAttractionList.get(position);
 
             holder.mTitleTextView.setText(attraction.name);
             holder.mDescriptionTextView.setText(attraction.description);

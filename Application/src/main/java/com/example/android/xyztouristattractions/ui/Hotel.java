@@ -145,6 +145,7 @@ public class Hotel extends Fragment {
             HotelConstruction attraction = mAttractionList.get(position);
 
             holder.mTitleTextView.setText(attraction.name);
+            holder.ratingnum.setText(attraction.rating);
             holder.mDescriptionTextView.setText(attraction.description);
             holder.rating.setRating(Float.parseFloat(attraction.rating));
             holder.Rupee.setText(attraction.Rupee);
@@ -195,6 +196,7 @@ public class Hotel extends Fragment {
         ImageView mImageView;
         RatingBar rating;
         TextView Rupee;
+        TextView ratingnum;
         Hotel.ItemClickListener mItemClickListener;
 
         public ViewHolder(View view, Hotel.ItemClickListener itemClickListener) {
@@ -205,6 +207,8 @@ public class Hotel extends Fragment {
             mImageView = (ImageView) view.findViewById(android.R.id.icon);
             rating=(RatingBar)view.findViewById(R.id.rating);
             Rupee=(TextView)view.findViewById(R.id.Ruppe);
+            ratingnum=(TextView)view.findViewById(R.id.ratingnumber);
+
             mItemClickListener = itemClickListener;
             view.setOnClickListener(this);
         }
