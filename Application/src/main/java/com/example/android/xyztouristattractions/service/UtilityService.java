@@ -49,10 +49,6 @@ import static com.example.android.xyztouristattractions.provider.TouristAttracti
 import static com.google.android.gms.location.LocationServices.FusedLocationApi;
 import static com.google.android.gms.location.LocationServices.GeofencingApi;
 
-/**
- * A utility IntentService, used for a variety of asynchronous background
- * operations that do not necessarily need to be tied to a UI.
- */
 public class UtilityService extends IntentService {
     private static final String TAG = UtilityService.class.getSimpleName();
 
@@ -65,12 +61,6 @@ public class UtilityService extends IntentService {
 
     public static IntentFilter getLocationUpdatedIntentFilter() {
         return new IntentFilter(UtilityService.ACTION_LOCATION_UPDATED);
-    }
-
-    public static void triggerWearTest(Context context, boolean microApp) {
-        Intent intent = new Intent(context, UtilityService.class);
-        intent.setAction(UtilityService.ACTION_FAKE_UPDATE);
-        context.startService(intent);
     }
 
     public static void addGeofences(Context context) {

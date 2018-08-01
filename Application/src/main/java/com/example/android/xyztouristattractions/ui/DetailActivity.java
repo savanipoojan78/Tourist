@@ -22,10 +22,16 @@ import android.content.Context;
 import android.content.Intent;
 import android.os.Build;
 import android.os.Bundle;
+import android.support.annotation.NonNull;
+import android.support.design.widget.BottomNavigationView;
 import android.support.v4.app.ActivityCompat;
 import android.support.v4.app.ActivityOptionsCompat;
+import android.support.v4.app.Fragment;
+import android.support.v4.app.FragmentTransaction;
 import android.support.v7.app.AppCompatActivity;
+import android.view.MenuItem;
 import android.view.View;
+import android.widget.FrameLayout;
 
 import com.example.android.xyztouristattractions.R;
 
@@ -34,7 +40,10 @@ import com.example.android.xyztouristattractions.R;
  * a single attraction.
  */
 public class DetailActivity extends AppCompatActivity {
-
+    private BottomNavigationView nav;
+    private FrameLayout frameLayout;
+    private AttractionListFragment attractionListFragment;
+    private Hotel hotel;
     private static final String EXTRA_ATTRACTION = "attraction";
 
     @TargetApi(Build.VERSION_CODES.LOLLIPOP)
@@ -59,6 +68,30 @@ public class DetailActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        hotel=new Hotel();
+        nav=(BottomNavigationView)findViewById(R.id.bottomnav);
+        nav.setOnNavigationItemSelectedListener(new BottomNavigationView.OnNavigationItemSelectedListener() {
+            @Override
+            public boolean onNavigationItemSelected(@NonNull MenuItem item) {
+                switch (item.getItemId())
+                {
+                    case R.id.menu_place:
+                        Intent i=new Intent(DetailActivity.this,AttractionListActivity.class);
+                        startActivity(i);
+                        return true;
+                    case R.id.menu_hotel:
+                        Intent j=new Intent(DetailActivity.this,AttractionListActivity.class);
+                        startActivity(j);
+                        return true;
+                    case R.id.menu_restaurent:
+                        Intent k=new Intent(DetailActivity.this,AttractionListActivity.class);
+                        startActivity(k);
+                        return true;
+                    default:
+                        return false;
+                }
+            }
+        });
 
         String attraction = getIntent().getStringExtra(EXTRA_ATTRACTION);
         if (savedInstanceState == null) {
@@ -66,5 +99,11 @@ public class DetailActivity extends AppCompatActivity {
                     .add(R.id.container, DetailFragment.createInstance(attraction))
                     .commit();
         }
+    }
+    public void setfragment(Fragment fragment)
+    {
+        FragmentTransaction fragmentTransaction=getSupportFragmentManager().beginTransaction();
+        fragmentTransaction.replace(R.id.container,fragment);
+        fragmentTransaction.commit();
     }
 }

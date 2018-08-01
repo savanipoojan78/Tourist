@@ -24,8 +24,6 @@ public class Attraction {
     public Bitmap secondaryImage;
     public String distance;
 
-    public Attraction() {}
-
     public Attraction(String name, String description, String longDescription, Uri imageUrl,
                       Uri secondaryImageUrl, LatLng location, String city) {
         this.name = name;

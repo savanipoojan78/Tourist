@@ -49,6 +49,7 @@ public class AttractionListActivity extends AppCompatActivity implements
     private FrameLayout frameLayout;
     private AttractionListFragment attractionListFragment;
     private Hotel hotel;
+    private Resturent resturent;
 
 
     @Override
@@ -58,6 +59,7 @@ public class AttractionListActivity extends AppCompatActivity implements
         nav=(BottomNavigationView)findViewById(R.id.bottomnav);
         frameLayout=(FrameLayout)findViewById(R.id.container);
         hotel=new Hotel();
+        resturent=new Resturent();
         attractionListFragment=new AttractionListFragment();
         nav.setOnNavigationItemSelectedListener(new BottomNavigationView.OnNavigationItemSelectedListener() {
             @Override
@@ -71,6 +73,7 @@ public class AttractionListActivity extends AppCompatActivity implements
                         setfragment(hotel);
                         return true;
                     case R.id.menu_restaurent:
+                        setfragment(resturent);
                         return true;
                         default:
                             return false;
