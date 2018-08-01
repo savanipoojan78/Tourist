@@ -14,6 +14,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
+import android.widget.RatingBar;
 import android.widget.TextView;
 import static com.example.android.xyztouristattractions.provider.HotelAttractions.HotelATTRACTIONS;
 import com.bumptech.glide.Glide;
@@ -135,7 +136,7 @@ public class Hotel extends Fragment {
         @Override
         public Hotel.ViewHolder onCreateViewHolder(ViewGroup parent, int viewType) {
             LayoutInflater inflater = LayoutInflater.from(mContext);
-            View view = inflater.inflate(R.layout.list_row, parent, false);
+            View view = inflater.inflate(R.layout.list_hotel, parent, false);
             return new Hotel.ViewHolder(view, this);
         }
 
@@ -145,6 +146,8 @@ public class Hotel extends Fragment {
 
             holder.mTitleTextView.setText(attraction.name);
             holder.mDescriptionTextView.setText(attraction.description);
+            holder.rating.setRating(Float.parseFloat(attraction.rating));
+            holder.Rupee.setText(attraction.Rupee);
             Glide.with(mContext)
                     .load(attraction.imageUrl)
                     .diskCacheStrategy(DiskCacheStrategy.SOURCE)
@@ -190,6 +193,8 @@ public class Hotel extends Fragment {
         TextView mDescriptionTextView;
         TextView mOverlayTextView;
         ImageView mImageView;
+        RatingBar rating;
+        TextView Rupee;
         Hotel.ItemClickListener mItemClickListener;
 
         public ViewHolder(View view, Hotel.ItemClickListener itemClickListener) {
@@ -198,6 +203,8 @@ public class Hotel extends Fragment {
             mDescriptionTextView = (TextView) view.findViewById(android.R.id.text2);
             mOverlayTextView = (TextView) view.findViewById(R.id.overlaytext);
             mImageView = (ImageView) view.findViewById(android.R.id.icon);
+            rating=(RatingBar)view.findViewById(R.id.rating);
+            Rupee=(TextView)view.findViewById(R.id.Ruppe);
             mItemClickListener = itemClickListener;
             view.setOnClickListener(this);
         }

@@ -456,6 +456,10 @@
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\anim\\abc_tooltip_enter.xml"
     },
     {
+        "merged": "E:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\layout_list_hotel.xml.flat",
+        "source": "E:\\TouristAttractions\\Application\\src\\main\\res\\layout\\list_hotel.xml"
+    },
+    {
         "merged": "E:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\anim_abc_popup_enter.xml.flat",
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\anim\\abc_popup_enter.xml"
     },

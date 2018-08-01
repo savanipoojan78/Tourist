@@ -14,13 +14,15 @@ public class HotelConstruction {
     public Uri secondaryImageUrl;
     public LatLng location;
     public String city;
+    public String rating;
+    public String Rupee;
 
     public Bitmap image;
     public Bitmap secondaryImage;
     public String distance;
 
     public HotelConstruction(String name, String description, String longDescription, Uri imageUrl,
-                      Uri secondaryImageUrl, LatLng location, String city) {
+                      Uri secondaryImageUrl, LatLng location, String city,String rating,String Rupee) {
         this.name = name;
         this.description = description;
         this.longDescription = longDescription;
@@ -28,5 +30,7 @@ public class HotelConstruction {
         this.secondaryImageUrl = secondaryImageUrl;
         this.location = location;
         this.city = city;
+        this.rating=rating;
+        this.Rupee=Rupee;
     }
 }
