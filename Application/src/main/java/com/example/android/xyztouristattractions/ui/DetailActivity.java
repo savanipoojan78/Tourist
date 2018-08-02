@@ -41,8 +41,6 @@ import com.example.android.xyztouristattractions.R;
  */
 public class DetailActivity extends AppCompatActivity {
     private BottomNavigationView nav;
-    private FrameLayout frameLayout;
-    private AttractionListFragment attractionListFragment;
     private Hotel hotel;
     private static final String EXTRA_ATTRACTION = "attraction";
 
@@ -100,10 +98,5 @@ public class DetailActivity extends AppCompatActivity {
                     .commit();
         }
     }
-    public void setfragment(Fragment fragment)
-    {
-        FragmentTransaction fragmentTransaction=getSupportFragmentManager().beginTransaction();
-        fragmentTransaction.replace(R.id.container,fragment);
-        fragmentTransaction.commit();
-    }
+
 }

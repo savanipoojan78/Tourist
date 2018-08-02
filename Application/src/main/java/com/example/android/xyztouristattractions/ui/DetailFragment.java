@@ -63,7 +63,8 @@ public class DetailFragment extends Fragment {
         return detailFragment;
     }
 
-    public DetailFragment() {}
+    public DetailFragment() {
+    }
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
@@ -72,6 +73,7 @@ public class DetailFragment extends Fragment {
         View view = inflater.inflate(R.layout.fragment_detail, container, false);
         String attractionName = getArguments().getString(EXTRA_ATTRACTION);
         mAttraction = findAttraction(attractionName);
+
 
         if (mAttraction == null) {
             getActivity().finish();
@@ -124,23 +126,6 @@ public class DetailFragment extends Fragment {
                 Intent upIntent = NavUtils.getParentActivityIntent(getActivity());
                 upIntent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TASK);
 
-                // Check if up activity needs to be created (usually when
-                // detail screen is opened from a notification or from the
-                // Wearable app
-                if (NavUtils.shouldUpRecreateTask(getActivity(), upIntent)
-                        || getActivity().isTaskRoot()) {
-
-                    // Synthesize parent stack
-                    TaskStackBuilder.create(getActivity())
-                            .addNextIntentWithParentStack(upIntent)
-                            .startActivities();
-                }
-
-                if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) {
-                    // On Lollipop+ we finish so to run the nice animation
-                    getActivity().finishAfterTransition();
-                    return true;
-                }
 
                 // Otherwise let the system handle navigating "up"
                 return false;
