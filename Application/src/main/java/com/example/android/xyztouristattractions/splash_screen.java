@@ -109,7 +109,7 @@ public class splash_screen extends AppCompatActivity {
         String f;
         f=s;
 
-            speak("Hi"+ f +  "please tell me, your location");
+            speak("Hi"+ f +  "please tell me, your location ");
             Intent i=new Intent(splash_screen.this,AttractionListActivity.class);
             startActivity(i);
             finish();

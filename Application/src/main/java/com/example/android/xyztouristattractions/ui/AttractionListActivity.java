@@ -17,25 +17,29 @@
 package com.example.android.xyztouristattractions.ui;
 
 import android.Manifest;
+
 import android.content.pm.PackageManager;
+
 import android.os.Bundle;
+
 import android.support.annotation.NonNull;
 import android.support.design.widget.BottomNavigationView;
 import android.support.design.widget.Snackbar;
 import android.support.v4.app.ActivityCompat;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentTransaction;
-import android.support.v7.app.AlertDialog;
+
 import android.support.v7.app.AppCompatActivity;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.FrameLayout;
-import android.widget.Toast;
+
 
 import com.example.android.xyztouristattractions.R;
 import com.example.android.xyztouristattractions.Utils;
 import com.example.android.xyztouristattractions.service.UtilityService;
+
 
 /**
  * The main tourist attraction activity screen which contains a list of
@@ -56,16 +60,15 @@ public class AttractionListActivity extends AppCompatActivity implements
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        nav=(BottomNavigationView)findViewById(R.id.bottomnav);
-        frameLayout=(FrameLayout)findViewById(R.id.container);
-        hotel=new Hotel();
-        resturent=new Resturent();
-        attractionListFragment=new AttractionListFragment();
+        nav = (BottomNavigationView) findViewById(R.id.bottomnav);
+        frameLayout = (FrameLayout) findViewById(R.id.container);
+        hotel = new Hotel();
+        resturent = new Resturent();
+        attractionListFragment = new AttractionListFragment();
         nav.setOnNavigationItemSelectedListener(new BottomNavigationView.OnNavigationItemSelectedListener() {
             @Override
             public boolean onNavigationItemSelected(@NonNull MenuItem item) {
-                switch (item.getItemId())
-                {
+                switch (item.getItemId()) {
                     case R.id.menu_place:
                         setfragment(attractionListFragment);
                         return true;
@@ -75,8 +78,8 @@ public class AttractionListActivity extends AppCompatActivity implements
                     case R.id.menu_restaurent:
                         setfragment(resturent);
                         return true;
-                        default:
-                            return false;
+                    default:
+                        return false;
                 }
             }
         });
@@ -104,7 +107,10 @@ public class AttractionListActivity extends AppCompatActivity implements
             // Otherwise permission is granted (which is always the case on pre-M devices)
             fineLocationPermissionGranted();
         }
+
+
     }
+
 
     @Override
     protected void onResume() {
@@ -118,7 +124,6 @@ public class AttractionListActivity extends AppCompatActivity implements
         getMenuInflater().inflate(R.menu.main, menu);
         return true;
     }
-
 
 
     /**
@@ -165,10 +170,12 @@ public class AttractionListActivity extends AppCompatActivity implements
                 })
                 .show();
     }
-    public void setfragment(Fragment fragment)
-    {
-        FragmentTransaction fragmentTransaction=getSupportFragmentManager().beginTransaction();
-        fragmentTransaction.replace(R.id.container,fragment);
+
+    public void setfragment(Fragment fragment) {
+        FragmentTransaction fragmentTransaction = getSupportFragmentManager().beginTransaction();
+        fragmentTransaction.replace(R.id.container, fragment);
         fragmentTransaction.commit();
     }
+
+
 }

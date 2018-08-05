@@ -155,10 +155,7 @@ public class DetailFragment extends Fragment {
 
     @Override
     public void onDestroy() {
-        // Don't forget to shutdown tts!
-//        if(tts==null)
-//        {
-//        }
+
         if (tts != null) {
             tts.stop();
             tts.shutdown();
