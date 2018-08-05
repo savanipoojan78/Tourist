@@ -5,6 +5,7 @@ import android.content.BroadcastReceiver;
 import android.content.Context;
 import android.content.Intent;
 import android.location.Location;
+import android.net.Uri;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.support.v4.content.LocalBroadcastManager;
@@ -16,7 +17,9 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.RatingBar;
 import android.widget.TextView;
+
 import static com.example.android.xyztouristattractions.provider.HotelAttractions.HotelATTRACTIONS;
+
 import com.bumptech.glide.Glide;
 import com.bumptech.glide.load.engine.DiskCacheStrategy;
 import com.example.android.xyztouristattractions.Constants;
@@ -32,18 +35,20 @@ import com.google.maps.android.SphericalUtil;
 import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
+import java.util.Map;
 
-import static com.example.android.xyztouristattractions.provider.TouristAttractions.ATTRACTIONS;
 
 /**
  * A simple {@link Fragment} subclass.
  */
 public class Hotel extends Fragment {
 
-    private AttractionAdapter mAdapter;
+    private HotelAdapter mAdapter;
     private LatLng mLatestLocation;
     private int mImageSize;
     private boolean mItemClicked;
+
+
     public Hotel() {
         // Required empty public constructor
     }
@@ -52,6 +57,7 @@ public class Hotel extends Fragment {
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
+
         // Inflate the layout for this fragment
         // Load a larger size image to make the activity transition to the detail screen smooth
         mImageSize = getResources().getDimensionPixelSize(R.dimen.image_size)
@@ -59,7 +65,7 @@ public class Hotel extends Fragment {
 
         mLatestLocation = Utils.getLocation(getActivity());
         List<HotelConstruction> attractions = loadAttractionsFromLocation(mLatestLocation);
-        mAdapter = new Hotel.AttractionAdapter(getActivity(), attractions);
+        mAdapter = new Hotel.HotelAdapter(getActivity(), attractions);
 
         View view = inflater.inflate(R.layout.fragment_main, container, false);
         AttractionsRecyclerView recyclerView =
@@ -68,9 +74,11 @@ public class Hotel extends Fragment {
         recyclerView.setHasFixedSize(true);
         recyclerView.setAdapter(mAdapter);
 
+
         return view;
-        
+
     }
+
     @Override
     public void onResume() {
         super.onResume();
@@ -121,13 +129,13 @@ public class Hotel extends Fragment {
         return null;
     }
 
-    private class AttractionAdapter extends RecyclerView.Adapter<Hotel.ViewHolder>
+    private class HotelAdapter extends RecyclerView.Adapter<Hotel.ViewHolder>
             implements Hotel.ItemClickListener {
 
         public List<HotelConstruction> mAttractionList;
         private Context mContext;
 
-        public AttractionAdapter(Context context, List<HotelConstruction> attractions) {
+        public HotelAdapter(Context context, List<HotelConstruction> attractions) {
             super();
             mContext = context;
             mAttractionList = attractions;
@@ -178,13 +186,7 @@ public class Hotel extends Fragment {
 
         @Override
         public void onItemClick(View view, int position) {
-            if (!mItemClicked) {
-                mItemClicked = true;
-                View heroView = view.findViewById(android.R.id.icon);
-                DetailActivity.launch(
-                        getActivity(), mAdapter.mAttractionList.get(position).name, heroView);
             }
-        }
     }
 
     private static class ViewHolder extends RecyclerView.ViewHolder
@@ -205,13 +207,13 @@ public class Hotel extends Fragment {
             mDescriptionTextView = (TextView) view.findViewById(android.R.id.text2);
             mOverlayTextView = (TextView) view.findViewById(R.id.overlaytext);
             mImageView = (ImageView) view.findViewById(android.R.id.icon);
-            rating=(RatingBar)view.findViewById(R.id.rating);
-            Rupee=(TextView)view.findViewById(R.id.Ruppe);
-            ratingnum=(TextView)view.findViewById(R.id.ratingnumber);
-
+            rating = (RatingBar) view.findViewById(R.id.rating);
+            Rupee = (TextView) view.findViewById(R.id.Ruppe);
+            ratingnum = (TextView) view.findViewById(R.id.ratingnumber);
             mItemClickListener = itemClickListener;
             view.setOnClickListener(this);
         }
+
 
         @Override
         public void onClick(View v) {
@@ -220,7 +222,9 @@ public class Hotel extends Fragment {
     }
 
     interface ItemClickListener {
+
         void onItemClick(View view, int position);
     }
+
 
 }

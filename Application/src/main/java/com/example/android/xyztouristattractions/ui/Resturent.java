@@ -174,12 +174,7 @@ public class Resturent extends Fragment {
 
         @Override
         public void onItemClick(View view, int position) {
-            if (!mItemClicked) {
-                mItemClicked = true;
-                View heroView = view.findViewById(android.R.id.icon);
-                DetailActivity.launch(
-                        getActivity(), mAdapter.mAttractionList.get(position).name, heroView);
-            }
+
         }
     }
 

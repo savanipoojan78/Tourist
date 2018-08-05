@@ -20,6 +20,7 @@ import android.annotation.TargetApi;
 import android.app.Activity;
 import android.content.Context;
 import android.content.Intent;
+import android.net.Uri;
 import android.os.Build;
 import android.os.Bundle;
 import android.support.annotation.NonNull;
@@ -33,7 +34,14 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.FrameLayout;
 
+import com.example.android.xyztouristattractions.Constants;
+import com.example.android.xyztouristattractions.HotelConstruction;
 import com.example.android.xyztouristattractions.R;
+
+import java.util.List;
+import java.util.Map;
+
+import static com.example.android.xyztouristattractions.provider.HotelAttractions.HotelATTRACTIONS;
 
 /**
  * The tourist attraction detail activity screen which contains the details of
@@ -47,13 +55,11 @@ public class DetailActivity extends AppCompatActivity {
     @TargetApi(Build.VERSION_CODES.LOLLIPOP)
     public static void launch(Activity activity, String attraction, View heroView) {
         Intent intent = getLaunchIntent(activity, attraction);
-        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) {
-            ActivityOptionsCompat options = ActivityOptionsCompat.makeSceneTransitionAnimation(
-                    activity, heroView, heroView.getTransitionName());
-            ActivityCompat.startActivity(activity, intent, options.toBundle());
-        } else {
-            activity.startActivity(intent);
-        }
+
+        ActivityOptionsCompat options = ActivityOptionsCompat.makeSceneTransitionAnimation(
+                activity, heroView, heroView.getTransitionName());
+        ActivityCompat.startActivity(activity, intent, options.toBundle());
+
     }
 
     public static Intent getLaunchIntent(Context context, String attraction) {
@@ -66,23 +72,22 @@ public class DetailActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        hotel=new Hotel();
-        nav=(BottomNavigationView)findViewById(R.id.bottomnav);
+        hotel = new Hotel();
+        nav = (BottomNavigationView) findViewById(R.id.bottomnav);
         nav.setOnNavigationItemSelectedListener(new BottomNavigationView.OnNavigationItemSelectedListener() {
             @Override
             public boolean onNavigationItemSelected(@NonNull MenuItem item) {
-                switch (item.getItemId())
-                {
+                switch (item.getItemId()) {
                     case R.id.menu_place:
-                        Intent i=new Intent(DetailActivity.this,AttractionListActivity.class);
+                        Intent i = new Intent(DetailActivity.this, AttractionListActivity.class);
                         startActivity(i);
                         return true;
                     case R.id.menu_hotel:
-                        Intent j=new Intent(DetailActivity.this,AttractionListActivity.class);
+                        Intent j = new Intent(DetailActivity.this, AttractionListActivity.class);
                         startActivity(j);
                         return true;
                     case R.id.menu_restaurent:
-                        Intent k=new Intent(DetailActivity.this,AttractionListActivity.class);
+                        Intent k = new Intent(DetailActivity.this, AttractionListActivity.class);
                         startActivity(k);
                         return true;
                     default:
@@ -100,3 +105,4 @@ public class DetailActivity extends AppCompatActivity {
     }
 
 }
+

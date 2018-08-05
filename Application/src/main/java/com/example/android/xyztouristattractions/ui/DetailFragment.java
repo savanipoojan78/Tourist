@@ -34,6 +34,7 @@ import android.widget.TextView;
 
 import com.bumptech.glide.Glide;
 import com.bumptech.glide.load.engine.DiskCacheStrategy;
+import com.example.android.xyztouristattractions.HotelConstruction;
 import com.example.android.xyztouristattractions.R;
 import com.example.android.xyztouristattractions.Attraction;
 import com.example.android.xyztouristattractions.Constants;
@@ -44,6 +45,7 @@ import java.util.List;
 import java.util.Map;
 
 import static com.example.android.xyztouristattractions.provider.TouristAttractions.ATTRACTIONS;
+import static com.example.android.xyztouristattractions.provider.HotelAttractions.HotelATTRACTIONS;
 
 /**
  * The tourist attraction detail fragment which contains the details of a
@@ -53,7 +55,9 @@ import static com.example.android.xyztouristattractions.provider.TouristAttracti
 public class DetailFragment extends Fragment {
 
     private static final String EXTRA_ATTRACTION = "attraction";
+    private static final String EXTRA_HOTEL = "hotel";
     private Attraction mAttraction;
+    // private HotelConstruction hotelConstruction;
 
     public static DetailFragment createInstance(String attractionName) {
         DetailFragment detailFragment = new DetailFragment();
@@ -72,6 +76,7 @@ public class DetailFragment extends Fragment {
         setHasOptionsMenu(true);
         View view = inflater.inflate(R.layout.fragment_detail, container, false);
         String attractionName = getArguments().getString(EXTRA_ATTRACTION);
+
         mAttraction = findAttraction(attractionName);
 
 
@@ -148,4 +153,7 @@ public class DetailFragment extends Fragment {
         }
         return null;
     }
+
+
+
 }
