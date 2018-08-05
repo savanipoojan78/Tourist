@@ -5,24 +5,24 @@
     build-mode="COLD"
     density="xhdpi"
     format="10"
-    ir-eligibility="IMPLEMENTED_INTERFACES_CHANGE"
+    ir-eligibility="COMPATIBLE"
     plugin-version="3.0.1"
-    timestamp="1533461642551"
+    timestamp="1533466867340"
     token="5992031123156017270"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="538" />
+        duration="419" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="91" />
+        duration="31" />
     <task
         name="verifier"
-        duration="28" />
+        duration="10" />
 
     <artifact
         location="E:\TouristAttractions\Application\build\intermediates\split-apk\debug\slices\slice_7.apk"
@@ -71,8 +71,16 @@
     </build>
     <build
         build-mode="COLD"
-        ir-eligibility="IMPLEMENTED_INTERFACES_CHANGE"
-        timestamp="1533461642551"
+        timestamp="1533464830854"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="E:\TouristAttractions\Application\build\outputs\apk\debug\Application-debug.apk"
+            type="SPLIT_MAIN" />
+    </build>
+    <build
+        build-mode="COLD"
+        ir-eligibility="COMPATIBLE"
+        timestamp="1533466867340"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="E:\TouristAttractions\Application\build\intermediates\split-apk\debug\slices\slice_7.apk"

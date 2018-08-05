@@ -52,8 +52,7 @@ import static com.example.android.xyztouristattractions.provider.HotelAttraction
  */
 public class DetailActivity extends AppCompatActivity {
     private BottomNavigationView nav;
-    private Hotel hotel;
-    private TextToSpeech tts;
+
     private static final String EXTRA_ATTRACTION = "attraction";
 
     @TargetApi(Build.VERSION_CODES.LOLLIPOP)
@@ -78,7 +77,6 @@ public class DetailActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        hotel = new Hotel();
         nav = (BottomNavigationView) findViewById(R.id.bottomnav);
         nav.setOnNavigationItemSelectedListener(new BottomNavigationView.OnNavigationItemSelectedListener() {
             @Override

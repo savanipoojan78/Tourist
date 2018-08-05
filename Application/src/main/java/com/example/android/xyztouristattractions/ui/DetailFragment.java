@@ -64,8 +64,7 @@ public class DetailFragment extends Fragment {
     private static final String EXTRA_HOTEL = "hotel";
     private Attraction mAttraction;
     private TextToSpeech tts;
-    private int keyCode;
-    // private HotelConstruction hotelConstruction;
+
 
     public static DetailFragment createInstance(String attractionName) {
         DetailFragment detailFragment = new DetailFragment();
@@ -157,6 +156,9 @@ public class DetailFragment extends Fragment {
     @Override
     public void onDestroy() {
         // Don't forget to shutdown tts!
+//        if(tts==null)
+//        {
+//        }
         if (tts != null) {
             tts.stop();
             tts.shutdown();
@@ -204,11 +206,7 @@ public class DetailFragment extends Fragment {
         }
     }
 
-    @Override
-    public void onDestroyView() {
-        tts.shutdown();
-        super.onDestroyView();
-    }
+
 
 
 }
