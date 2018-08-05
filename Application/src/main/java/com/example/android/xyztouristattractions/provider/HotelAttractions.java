@@ -33,7 +33,7 @@ public class HotelAttractions {
             new HashMap<String, List<HotelConstruction>>() {{
 
                 put(CITY_SYDNEY, new ArrayList<HotelConstruction>() {{
-                    add(new HotelConstruction("Regenta Central Antarim Hotel",
+                    add(new HotelConstruction("Regenta Antarim",
                             "Free breakfast   \n" +
                                     "Air-conditioned   \n" +
                                     "Laundry service   \n" +
@@ -44,7 +44,7 @@ public class HotelAttractions {
                             new LatLng(23.0332706,72.4868186),
                             CITY_India,"4.3","₹3316"
                     ));
-                    add(new HotelConstruction("Ramada Plaza Palm Grove",
+                    add(new HotelConstruction("Ramada Plaza Palm",
                             "Free breakfast   \n" +
                                     "Outdoor pool   \n" +
                                     "Air-conditioned   \n" +
@@ -55,7 +55,7 @@ public class HotelAttractions {
                             CITY_India,"4.1","₹8769"
                     ));
 
-                    add(new HotelConstruction("Rajasthan Palace Hotel",
+                    add(new HotelConstruction("Rajasthan Palace",
                             "Laundry service   \n" +
                                     "Business centre   \n" +
                                     "Room service   \n" +

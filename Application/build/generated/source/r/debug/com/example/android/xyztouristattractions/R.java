@@ -2142,7 +2142,7 @@ public final class R {
      * <tr><td>barrier</td><td>2</td><td></td></tr>
      * <tr><td>chains</td><td>4</td><td></td></tr>
      * <tr><td>dimensions</td><td>8</td><td></td></tr>
-     * <tr><td>direct</td><td>1</td><td>for now only direct & barriers</td></tr>
+     * <tr><td>direct</td><td>1</td><td></td></tr>
      * <tr><td>none</td><td>0</td><td></td></tr>
      * <tr><td>standard</td><td>3</td><td></td></tr>
      * </table>
@@ -3822,7 +3822,7 @@ public final class R {
     public static final int amu_bubble_shadow=0x7f08005a;
     public static final int avd_hide_password=0x7f08005b;
     public static final int avd_show_password=0x7f08005c;
-    public static final int background=0x7f08005d;
+    public static final int bk=0x7f08005d;
     public static final int common_full_open_on_phone=0x7f08005e;
     public static final int common_google_signin_btn_icon_dark=0x7f08005f;
     public static final int common_google_signin_btn_icon_dark_focused=0x7f080060;
@@ -4669,9 +4669,10 @@ public final class R {
     public static final int XYZAppTheme=0x7f10017f;
     public static final int XYZAppTheme_Base=0x7f100180;
     public static final int XYZAppTheme_Detail=0x7f100181;
-    public static final int amu_Bubble_TextAppearance_Dark=0x7f100182;
-    public static final int amu_Bubble_TextAppearance_Light=0x7f100183;
-    public static final int amu_ClusterIcon_TextAppearance=0x7f100184;
+    public static final int XYZAppTheme_splash=0x7f100182;
+    public static final int amu_Bubble_TextAppearance_Dark=0x7f100183;
+    public static final int amu_Bubble_TextAppearance_Light=0x7f100184;
+    public static final int amu_ClusterIcon_TextAppearance=0x7f100185;
   }
   public static final class styleable {
     /**
@@ -9393,7 +9394,7 @@ public final class R {
      * <tr><td>barrier</td><td>2</td><td></td></tr>
      * <tr><td>chains</td><td>4</td><td></td></tr>
      * <tr><td>dimensions</td><td>8</td><td></td></tr>
-     * <tr><td>direct</td><td>1</td><td>for now only direct & barriers</td></tr>
+     * <tr><td>direct</td><td>1</td><td></td></tr>
      * <tr><td>none</td><td>0</td><td></td></tr>
      * <tr><td>standard</td><td>3</td><td></td></tr>
      * </table>
