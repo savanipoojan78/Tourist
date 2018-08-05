@@ -26,6 +26,7 @@
         android:fullBackupContent="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
+        android:testOnly="true"
         android:theme="@style/XYZAppTheme" >
         <activity
             android:name="com.example.android.xyztouristattractions.ui.AttractionListActivity"

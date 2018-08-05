@@ -21,16 +21,20 @@ import android.content.Intent;
 import android.net.Uri;
 import android.os.Build;
 import android.os.Bundle;
+import android.speech.tts.TextToSpeech;
 import android.support.design.widget.FloatingActionButton;
 import android.support.v4.app.Fragment;
+import android.support.v4.app.FragmentManager;
 import android.support.v4.app.NavUtils;
 import android.text.TextUtils;
+import android.view.KeyEvent;
 import android.view.LayoutInflater;
 import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import com.bumptech.glide.Glide;
 import com.bumptech.glide.load.engine.DiskCacheStrategy;
@@ -39,9 +43,11 @@ import com.example.android.xyztouristattractions.R;
 import com.example.android.xyztouristattractions.Attraction;
 import com.example.android.xyztouristattractions.Constants;
 import com.example.android.xyztouristattractions.Utils;
+import com.example.android.xyztouristattractions.splash_screen;
 import com.google.android.gms.maps.model.LatLng;
 
 import java.util.List;
+import java.util.Locale;
 import java.util.Map;
 
 import static com.example.android.xyztouristattractions.provider.TouristAttractions.ATTRACTIONS;
@@ -57,6 +63,8 @@ public class DetailFragment extends Fragment {
     private static final String EXTRA_ATTRACTION = "attraction";
     private static final String EXTRA_HOTEL = "hotel";
     private Attraction mAttraction;
+    private TextToSpeech tts;
+    private int keyCode;
     // private HotelConstruction hotelConstruction;
 
     public static DetailFragment createInstance(String attractionName) {
@@ -65,6 +73,7 @@ public class DetailFragment extends Fragment {
         bundle.putString(EXTRA_ATTRACTION, attractionName);
         detailFragment.setArguments(bundle);
         return detailFragment;
+
     }
 
     public DetailFragment() {
@@ -85,11 +94,13 @@ public class DetailFragment extends Fragment {
             return null;
         }
 
+
         TextView nameTextView = (TextView) view.findViewById(R.id.nameTextView);
         TextView descTextView = (TextView) view.findViewById(R.id.descriptionTextView);
         TextView distanceTextView = (TextView) view.findViewById(R.id.distanceTextView);
         ImageView imageView = (ImageView) view.findViewById(R.id.imageView);
         FloatingActionButton mapFab = (FloatingActionButton) view.findViewById(R.id.mapFab);
+        ImageView play = (ImageView) view.findViewById(R.id.play);
 
         LatLng location = Utils.getLocation(getActivity());
         String distance = Utils.formatDistanceBetween(location, mAttraction.location);
@@ -119,8 +130,38 @@ public class DetailFragment extends Fragment {
                 startActivity(intent);
             }
         });
+        play.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                tts = new TextToSpeech(getActivity(), new TextToSpeech.OnInitListener() {
+
+
+                    @Override
+                    public void onInit(int status) {
+
+
+                        tts.setLanguage(new Locale("en", "IN"));
+                        speak(mAttraction.longDescription);
+
+
+                    }
+
+                });
+
+            }
+        });
 
         return view;
+    }
+
+    @Override
+    public void onDestroy() {
+        // Don't forget to shutdown tts!
+        if (tts != null) {
+            tts.stop();
+            tts.shutdown();
+        }
+        super.onDestroy();
     }
 
     @Override
@@ -154,6 +195,20 @@ public class DetailFragment extends Fragment {
         return null;
     }
 
+
+    private void speak(String s) {
+        if (Build.VERSION.SDK_INT >= 21) {
+            tts.speak(s, TextToSpeech.QUEUE_FLUSH, null, null);
+        } else {
+            tts.speak(s, TextToSpeech.QUEUE_FLUSH, null);
+        }
+    }
+
+    @Override
+    public void onDestroyView() {
+        tts.shutdown();
+        super.onDestroyView();
+    }
 
 
 }

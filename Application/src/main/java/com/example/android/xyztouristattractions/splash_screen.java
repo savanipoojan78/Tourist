@@ -129,7 +129,7 @@ public class splash_screen extends AppCompatActivity {
                 }
                 else
                 {
-                    tts.setLanguage(Locale.ENGLISH);
+                    tts.setLanguage(new Locale("en", "IN"));
                     speak("Hello,Friends I am Your Tourist Guide ,Can You Tell Me your Name?");
 
                 }

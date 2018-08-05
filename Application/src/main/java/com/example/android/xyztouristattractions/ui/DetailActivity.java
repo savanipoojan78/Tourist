@@ -23,6 +23,7 @@ import android.content.Intent;
 import android.net.Uri;
 import android.os.Build;
 import android.os.Bundle;
+import android.speech.tts.TextToSpeech;
 import android.support.annotation.NonNull;
 import android.support.design.widget.BottomNavigationView;
 import android.support.v4.app.ActivityCompat;
@@ -30,9 +31,11 @@ import android.support.v4.app.ActivityOptionsCompat;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentTransaction;
 import android.support.v7.app.AppCompatActivity;
+import android.view.KeyEvent;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.FrameLayout;
+import android.widget.ImageView;
 
 import com.example.android.xyztouristattractions.Constants;
 import com.example.android.xyztouristattractions.HotelConstruction;
@@ -50,6 +53,7 @@ import static com.example.android.xyztouristattractions.provider.HotelAttraction
 public class DetailActivity extends AppCompatActivity {
     private BottomNavigationView nav;
     private Hotel hotel;
+    private TextToSpeech tts;
     private static final String EXTRA_ATTRACTION = "attraction";
 
     @TargetApi(Build.VERSION_CODES.LOLLIPOP)
@@ -67,6 +71,8 @@ public class DetailActivity extends AppCompatActivity {
         intent.putExtra(EXTRA_ATTRACTION, attraction);
         return intent;
     }
+
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -103,6 +109,8 @@ public class DetailActivity extends AppCompatActivity {
                     .commit();
         }
     }
+
+
 
 }
 

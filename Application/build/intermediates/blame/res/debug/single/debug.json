@@ -1940,6 +1940,10 @@
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_36dp.png"
     },
     {
+        "merged": "E:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable_ic_volume_up_black_24dp.xml.flat",
+        "source": "E:\\TouristAttractions\\Application\\src\\main\\res\\drawable\\ic_volume_up_black_24dp.xml"
+    },
+    {
         "merged": "E:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_design_ic_visibility.png.flat",
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\459b0870deddad7aaaa579c1b1f90971\\res\\drawable-mdpi-v4\\design_ic_visibility.png"
     },
