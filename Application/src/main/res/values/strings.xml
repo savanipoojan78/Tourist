@@ -9,8 +9,125 @@
     <string name="places">Places</string>
     <string name="hotel">Hotels</string>
     <string name="Restaurant">Restaurant</string>
+    <string name="tajmahel">Taj Mahel</string>
+    <string name="tajmaheldes">17th-century, Mughal-style, marble mausoleum with minarets, a mosque and famously symmetrical gardens..</string>
+    <string name="tajmaellong">The Taj Mahal is an ivory-white marble mausoleum on the south bank of the Yamuna river in the Indian city of Agra. It was commissioned in 1632 by the Mughal emperor, Shah Jahan, to house the tomb of his favourite wife, Mumtaz Mahal.</string>
+    <string name="somnath">Somnath temple</string>
+    <string name="somnathdes">Somnath TempleSomnath Temple is a significant temple, comprising one of the twelve Jyotirlingas of Lord Shiva. Located in Prabhas Kshetra near Veraval, Somnath Mandir falls in Saurashtra region that lies on the western coast of Gujarat. The temple of Somnath can be easily reached from anywhere in Gujarat. Bus services to Somnath are available from all the cities and towns of Gujarat.</string>
+   <string name="somnathlong">Somnath Temple stands as a symbol of rich cultural heritage of India. The mention of this ancient temple has been made in the scriptures like \'Rig Veda\' of the Hindu origin. The term Somnath suggests \'the protector of Moon God\'. Lord Shiva is depicted here in the form of a Jyotirlinga (linga of light), as the protector. The incredible temple of Somnath is called as 'the Shrine Eternal' since, the temple has been shattered for not less than six times and every time, it has been reconstructed.,</string>
+    <string name="adalaj">Adalaj Stepwell,Ahmedabad</string>
+    <string name="adalajdes">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam eros velit, faucibus in mi in, accumsan eleifend magna. Fusce efficitur volutpat leo nec finibus. Vivamus luctus quis dolor ac interdum.",</string>
+    <string name="adalajlong">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam eros velit, faucibus in mi in, accumsan eleifend magna. Fusce efficitur volutpat leo nec finibus. Vivamus luctus quis dolor ac interdum.",</string>
+    <string name="Akshardhamdes">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam eros velit, faucibus in mi in, accumsan eleifend magna. Fusce efficitur volutpat leo nec finibus. Vivamus luctus quis dolor ac interdum.</string>
+    <string name="Akshardhamlong">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam eros velit, faucibus in mi in, accumsan eleifend magna. Fusce efficitur volutpat leo nec finibus. Vivamus luctus quis dolor ac interdum.</string>
+    <string name="Akshardham">Akshardham</string>
+    <string name="theredfort">The Red Fort</string>
+    <string name="thereadfortdes">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam eros velit, faucibus in mi in, accumsan eleifend magna. Fusce efficitur volutpat leo nec finibus. Vivamus luctus quis dolor ac interdum.</string>
+    <string name="theredforelong">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam eros velit, faucibus in mi in, accumsan eleifend magna. Fusce efficitur volutpat leo nec finibus. Vivamus luctus quis dolor ac interdum.</string>
+    <string name="elloracaves">Ellora Caves</string>
+    <string name="elloracavesdes">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam eros velit, faucibus in mi in, accumsan eleifend magna. Fusce efficitur volutpat leo nec finibus. Vivamus luctus quis dolor ac interdum.</string>
+    <string name="elloracaveslong">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam eros velit, faucibus in mi in, accumsan eleifend magna. Fusce efficitur volutpat leo nec finibus. Vivamus luctus quis dolor ac interdum.</string>
+    <string name="goldentemple">Golden Temple</string>
+    <string name="goldentempledes">Central worship place for Sikhs around the world, built from white marble overlaid with gold leaf.</string>
+    <string name="goldentemplelong">The Golden Temple, also known as Sri Harmandir Sahib or Darbar Sahib, is a Gurdwara located in the city of Amritsar, Punjab, India. It is the holiest Gurdwara and the most important pilgrimage site of Sikhism.</string>
+    <string name="qutbminar">Qutb Minar</string>
+    <string name="qutbminardes">73m tapering tower built in 1193 by Qutab-ud-din Aibak after defeat of Delhi\'s last Hindu kingdom.</string>
+    <string name="qutbminarlong">The Qutub Minar, also spelled as Qutab Minar, or Qutb Minar, is the tallest minaret in the world made up of bricks. The minaret forms a part of the Qutab complex, a UNESCO World Heritage Site in the Mehrauli area of Delhi, India.</string>
+    <string name="ranthamborenationalpark">Ranthambore National Park</string>
+    <string name="ranthamborenationalparkdes">Major destination for seeing tigers in their natural habitat plus other wildlife, with scenic ruins.</string>
+    <string name="ranthamborenationalparklong">Ranthambore National Park is a vast wildlife reserve near the town of Sawai Madhopur in Rajasthan, northern India. It is a former royal hunting ground and home to tigers, leopards and marsh crocodiles. Its landmarks include the imposing 10th-century Ranthambore Fort, on a hilltop, and the Ganesh Mandir temple. Also in the park, Padam Talao Lake is known for its abundance of water lilies.</string>
+    <string name="amerfort">Amer Fort</string>
+    <string name="amerfortdes">Structure known as both Amer and Amber, with Hindu and Muslim elements and offering elephant rides.</string>
+    <string name="amerfortlong">Amer Fort is a fort located in Amer, Rajasthan, India. Amer is a town with an area of 4 square kilometres located 11 kilometres from Jaipur, the capital of Rajasthan. Located high on a hill, it is the principal tourist attraction in Jaipur.</string>
+    <string name="hawamahal">Hawa Mahal</string>
+    <string name="hawamahaldes">Palace built in the form of a high wall to screen royal ladies as they watched street festivities.</string>
+    <string name="hawamahallong">Hawa Mahal is a palace in Jaipur, India. It is constructed of red and pink sandstone. The palace sits on the edge of the City Palace, Jaipur, and extends to the zenana, or women\'s chambers.</string>
+    <string name="citypalacejaipur">City Palace, Jaipur</string>
+    <string name="citypalacejaipurdes">Opulent 18th-century palace of Maharaja Sawai Jai Singh II, now a museum and royal residence.</string>
+    <string name="citypalacejaipurlong">City Palace, Jaipur, which includes the Chandra Mahal and Mubarak Mahal palaces and other buildings, is a palace complex in Jaipur, the capital of the Rajasthan state, India.</string>
+    <string name="indiagate">India Gate</string>
+    <string name="indiagatedes">Imposing Arc de Triomphe-style gate commemorating the Indian soliders killed in the First World War.</string>
+    <string name="indiagatelong">The India Gate is a war memorial located astride the Rajpath, on the eastern edge of the \"ceremonial axis\" of New Delhi, India, formerly called Kingsway.</string>
+    <string name="agrafort">Agra Fort</string>
+    <string name="agrafortdes">Richly decorated semi-circular red sandstone fort complex with double ramparts and monuments.</string>
+    <string name="agrafortlong">Agra Fort is a historical fort in the city of Agra in India. It was the main residence of the emperors of the Mughal Dynasty till 1638, when the capital was shifted from Agra to Delhi. The Agra fort is a UNESCO World Heritage site.</string>
+    <string name="jimcorbettnationalpark">Jim Corbett National Park</string>
+    <string name="jimcorbettnationalparkdes">India\'s oldest national park, opened in 1936, with a Bengal tiger reserve, visitor centre and safaris.",</string>
+    <string name="jimcorbettnationalparklong">Jim Corbett National Park is a forested wildlife sanctuary in northern India’s Uttarakhand State. Rich in flora and fauna, it’s known for its Bengal tigers. Animals, including tigers, leopards and wild elephants, roam the Dhikala zone. On the banks of the Ramganga Reservoir, the Sonanadi zone is home to elephants and leopards, along with hundreds of species of birds.</string>
+    <string name="jamamasjiddelhi">Jama Masjid, Delhi</string>
+    <string name="jamamasjiddelhides">17th-century, red sandstone Mughal-style mosque with a 25,000 capacity and 40m high minarets.</string>
+    <string name="jamamasjiddelhilong">The Masjid-i Jahān-Numā, commonly known as the Jama Masjid devnagrii: जामा मस्जिद, Urdu: جامع مسجد of Delhi, is one of the largest mosques in India.</string>
+    <string name="rohtangpass">Rohtang Pass</string>
+    <string name="rohtangpassdes">This well-known hiking and driving route in the Himalayas can be treacherous depending on the weather.</string>
+    <string name="rohtangpasslong">Rohtang Pass, is a high mountain pass on the eastern Pir Panjal Range of the Himalayas around 51 km from Manali. It connects the Kullu Valley with the Lahaul and Spiti Valleys of Himachal Pradesh, India.</string>
+    <string name="gatewayofindia">Gateway of India</string>
+    <string name="gatewayofindiades">Grand, Indo-Saracenic-style, 26m-tall triumphal stone arch, built on the waterfront in 1924.</string>
+    <string name="gatewayofindialong">The Gateway of India is an arch monument built during the 20th century in Bombay, India. The monument was erected to commemorate the landing of King George V and Queen Mary at Apollo Bunder on their visit to India in 1911.</string>
+   <string name="mehrangarh">Mehrangarh</string>
+    <string name="mehrangarhdes">Built circa 1460, one of India\'s largest forts offers a lift and galleries, plus guided tours and shops.</string>
+    <string name="mehrangarhlong">Mehrangarh, located in Jodhpur, Rajasthan, is one of the largest forts in India. Built around 1460 by Rao Jodha, the fort is situated 410 feet above the city and is enclosed by imposing thick walls.</string>
+    <string name="jantarmantarjaipur">Jantar Mantar, Jaipur</string>
+    <string name="jantarmantarjaipurdes">18th-century park and heritage site with fixed instruments for making astronomical observations.</string>
+    <string name="jantarmantarjaipurlong">The Jantar Mantar monument in Jaipur, Rajasthan is a collection of nineteen architectural astronomical instruments built by the Rajput king Sawai Jai Singh II, and completed in 1734.</string>
+    <string name="ajantacaves">Ajanta Caves</string>
+    <string name="ajantacavesdes">Richly decorated caves dating from 2nd and 1st centuries BC, home to masterpieces of religious art.</string>
+    <string name="ajantacaveslong">The Ajanta Caves are 29 rock-cut Buddhist cave monuments which date from the 2nd century BCE to about 480 CE in Aurangabad district of Maharashtra state of India.</string>
+    <string name="periyarnationalpark">Periyar National Park</string>
+    <string name="periyarnationalparkdes">Reserve with a mountain, forests and lakes making a habitat for protected tigers and elephants.</string>
+    <string name="periyarnationalparklong">Periyar National Park, also known as Periyar Tiger Reserve, is in the mountainous Western Ghats of Kerala, southern India. This wildlife sanctuary is home to tigers and a significant elephant population, as well as rare lion-tailed macaques, sambar deer, leopards and Indian bison. In the park\'s north, Periyar Lake is popular for boat rides. Farther north, spice plantations surround the town of Kumily.</string>
+    <string name="meenakshiammantemple">Meenakshi Amman Temple</string>
+    <string name="meenakshiammantempledes">Ancient, walled, Hindu place of worship with sacred water tank and colourful, sculpted gate towers.</string>
+    <string name="meenakshiammantemplelong">Meenakshi Temple, also referred to as Meenakshi Amman or Minakshi-Sundareshwara Temple, is a historic Hindu temple located on the southern bank of the Vaigai River in the temple city of Madurai, Tamil Nadu, India.</string>
+    <string name="lotustemple">Lotus Temple</string>
+    <string name="lotustempledes">Religious site also known as the Lotus Temple, opened in 1986 and open to those of all religions.</string>
+    <string name="lotustemplelong">The Lotus Temple, located in Delhi, India, is a Bahá\'í House of Worship that was dedicated in December 1986, costing $10 million. Notable for its flowerlike shape, it has become a prominent attraction in the city.</string>
+    <string name="jalmahal">Jal Mahal</string>
+    <string name="jalmahaldes">In the middle of Man Sagar Lake sits this grand palace made of red sandstone, most of it submerged.</string>
+    <string name="jalmahallong">Jal Mahal is a palace in the middle of the Man Sagar Lake in Jaipur city, the capital of the state of Rajasthan, India. The palace and the lake around it were renovated and enlarged in the 18th century by Maharaja Jai Singh II of Amber.</string>
+    <string name="elephantacaves">Elephanta Caves</string>
+    <string name="elephantacavesdes">Island with an ornately sculpted, 7th-century cave temple dedicated to the Hindu god Shiva.</string>
+    <string name="elephantacaveslong">Elephanta Caves are a UNESCO World Heritage Site and a collection of cave temples predominantly dedicated to the Hindu god Shiva.</string>
+    <string name="tombofitimādudDaulah">Tomb of I\'timād-ud-Daulah</string>
+    <string name="tombofitimādudDaulahdes">Mughal style white marble mausoleum, inlaid with semi-precious stones and nicknamed the \'Baby Taj\'.</string>
+    <string name="tombofitimādudDaulahlong">Tomb of I\'timād-ud-Daulah is a Mughal mausoleum in the city of Agra in the Indian state of Uttar Pradesh. Often described as a \"jewel box\", sometimes called the \"Baby Tāj\", the tomb of I\'timād-ud-Daulah is often regarded as a draft of the Tāj Mahal.</string>
+    <string name="jaisalmerfort">Jaisalmer Fort</string>
+    <string name="jaisalmerfortdes">Massive, 12th-century fortified city featuring ornate Jain temples with idols and stone carvings.</string>
+    <string name="jaisalmerfortlong">Jaisalmer Fort is situated in the city of Jaisalmer, in the Indian state of Rajasthan. It is believed to be one of the very few “living forts” in the world, as nearly one fourth of the old city\'s population still resides within the fort.</string>
+    <string name="jaigarhfort">Jaigarh Fort</string>
+    <string name="jaigarhfortdes">Built to protect the Amber Fort complex below, this 3-km-long fort offers a museum and view.</string>
+    <string name="jaigarhfortlong">Jaigarh Fort is situated on the promontory called the Cheel ka Teela of the Aravalli range; it overlooks the Amer Fort and the Maota Lake, near Amer in Jaipur, Rajasthan, India.</string>
+    <string name="dudhsagarfalls">Dudhsagar Falls</string>
+    <string name="dudhsagarfallsdes">3-streamed waterfall, named for its milky waters, with swimming pools surrounded by forest.</string>
+    <string name="dudhsagarfallslong">Dudhsagar Falls is a four-tiered waterfall located on the Mandovi River in the Indian state of Goa. It is 60 km from Panaji by road and is located on the Madgaon-Belgavi rail route about 46 km east of Madgaon and 80 km south of Belgavi.</string>
+    <string name="valleyofflowersnationalpark">Valley of Flowers National Park</string>
+    <string name="valleyofflowersnationalparkdes">Hiking trails cross this lush Himalayan valley, known for its bright alpine flora and rare animals.</string>
+    <string name="valleyofflowersnationalparklong">Valley of Flowers National Park is an Indian national park, located in West Himalaya, in the state of Uttarakhand and is known for its meadows of endemic alpine flowers and the variety of flora.</string>
+    <string name="kumbhalgarh">Kumbhalgarh</string>
+    <string name="kumbhalgarhdes">15th-century, hilltop fort and UNESCO-listed site surrounded by a massive, 36km-long perimeter wall.</string>
+    <string name="kumbhalgarhlong">Kumbhalgarh fort is a Mewar fortress on the westerly range of Aravalli Hills, in the Rajsamand district near Udaipur of Rajasthan state in western India. It is a World Heritage Site included in Hill Forts of Rajasthan.</string>
+    <string name="konarksuntemple">Konark Sun Temple</string>
+    <string name="konarksuntempledes">Ornately sculpted, 13th-century Hindu place of worship depicting the vast chariot of sun god, Surya.</string>
+    <string name="konarksuntemplelong">Konark Sun Temple is a 13th-century CE sun temple at Konark about 35 kilometres northeast from Puri on the coastline of Odisha, India. The temple is attributed to king Narasimhadeva I of the Eastern Ganga Dynasty about 1250 CE.</string>
+    <string name="havemore">Havmor Restaurant</string>
+    <string name="havemoredes">Open since 2003, this homegrown curry house serves street food and traditional snacks and sweets.", "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae bibendum justo, vitae cursus velit. Suspendisse potenti. Suspendisse scelerisque risus justo, non tincidunt nibh blandit et. Vivamus elit lacus, luctus nec erat in, pharetra semper turpis. Quisque viverra nulla ligula, non pulvinar ante dictum sit amet. Vestibulum aliquet tortor mauris, vel suscipit nisl malesuada eget. Aliquam maximus dictum euismod. Maecenas leo quam, volutpat id diam eget, placerat fringilla ipsum. Nam pretium vehicula augue quis euismod.\n\nNam sed blandit magna. Vestibulum a fermentum arcu. Vestibulum et ligula at nisi luctus facilisis. Proin fermentum enim a nibh commodo finibus. Suspendisse justo elit, vulputate ut ipsum at, pellentesque auctor massa. Praesent vestibulum erat interdum imperdiet dapibus. In hac habitasse platea dictumst. Proin varius orci vitae tempor vulputate.\n\nEtiam sed mollis orci. Integer et ex sed tortor scelerisque blandit semper id libero. Nulla facilisi. Pellentesque tempor magna eget massa ultrices, et efficitur lectus finibus.</string>
+    <string name="regentaantarim">Regenta Antarim</string>
+    <string name="regentaantarimdes">"Free breakfast   \n" +
+                                    "Air-conditioned   \n" +
+                                    "Laundry service   \n" +
+                                    "Business centre   \n" +
+                                    "Pet-friendly   \n" +
+                                    "Room service "</string>
+    <string name="ramadaplazapalm">Ramada Plaza Palm</string>
+    <string name="ramadaplazapalmdec">"Free breakfast   \n" +
+                                    "Outdoor pool   \n" +
+                                    "Air-conditioned   \n" +
+                                    "Laundry service"</string>
+    <string name="rajasthanpalacedes">
+                            "Laundry service   \n" +
+                                    "Business centre   \n" +
+                                    "Room service   \n" +
+                                    "Child friendly"</string>
+    <string name="rajasthanpalace">Rajasthan Palace></string>
 
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
 
 </resources>

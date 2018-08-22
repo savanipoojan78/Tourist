@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\TouristAttractions\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
+            "outputFile": "F:\\TouristAttractions\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
             "map": [
                 {
                     "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\7a911a03e2395c02d24012b1847e9116\\res\\values-v21\\values-v21.xml",
@@ -23,26 +23,7 @@
                     }
                 },
                 {
-                    "source": "E:\\TouristAttractions\\Application\\src\\main\\res\\values-v21\\base-template-styles.xml",
-                    "from": {
-                        "startLines": "5",
-                        "startColumns": "4",
-                        "startOffsets": "91",
-                        "endLines": "6",
-                        "endColumns": "12",
-                        "endOffsets": "168"
-                    },
-                    "to": {
-                        "startLines": "284",
-                        "startColumns": "4",
-                        "startOffsets": "20773",
-                        "endLines": "285",
-                        "endColumns": "12",
-                        "endOffsets": "20849"
-                    }
-                },
-                {
-                    "source": "E:\\TouristAttractions\\Application\\src\\main\\res\\values-v21\\styles.xml",
+                    "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\values-v21\\styles.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -61,7 +42,7 @@
                     }
                 },
                 {
-                    "source": "E:\\TouristAttractions\\Application\\src\\main\\res\\values-v21\\dimens.xml",
+                    "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\values-v21\\dimens.xml",
                     "from": {
                         "startLines": "3",
                         "startColumns": "4",
@@ -94,6 +75,25 @@
                         "endLines": "167,229",
                         "endColumns": "12,96",
                         "endOffsets": "12821,17257"
+                    }
+                },
+                {
+                    "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\values-v21\\base-template-styles.xml",
+                    "from": {
+                        "startLines": "5",
+                        "startColumns": "4",
+                        "startOffsets": "91",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "168"
+                    },
+                    "to": {
+                        "startLines": "284",
+                        "startColumns": "4",
+                        "startOffsets": "20773",
+                        "endLines": "285",
+                        "endColumns": "12",
+                        "endOffsets": "20849"
                     }
                 },
                 {

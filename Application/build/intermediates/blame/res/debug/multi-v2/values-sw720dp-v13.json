@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\TouristAttractions\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+            "outputFile": "F:\\TouristAttractions\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw720dp-v13\\values-sw720dp-v13.xml",
             "map": [
                 {
-                    "source": "E:\\TouristAttractions\\Application\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\values-sw720dp\\dimens.xml",
                     "from": {
                         "startLines": "5,3,2,4",
                         "startColumns": "4,4,4,4",

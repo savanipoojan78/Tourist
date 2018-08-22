@@ -1,4 +1,4 @@
-#Sun Aug 05 21:57:48 IST 2018
-base.0=E\:\\TouristAttractions\\Application\\build\\intermediates\\transforms\\dexMerger\\debug\\29
+#Wed Aug 22 12:53:25 IST 2018
+base.0=F\:\\TouristAttractions\\Application\\build\\intermediates\\transforms\\dexMerger\\debug\\10
 path.0=classes.dex
 renamed.0=classes.dex

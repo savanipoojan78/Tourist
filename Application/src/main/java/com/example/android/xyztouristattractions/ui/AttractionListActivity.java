@@ -18,6 +18,8 @@ package com.example.android.xyztouristattractions.ui;
 
 import android.Manifest;
 
+import android.app.Application;
+import android.content.Context;
 import android.content.pm.PackageManager;
 
 import android.os.Bundle;
@@ -54,6 +56,9 @@ public class AttractionListActivity extends AppCompatActivity implements
     private AttractionListFragment attractionListFragment;
     private Hotel hotel;
     private Resturent resturent;
+
+
+
 
 
     @Override

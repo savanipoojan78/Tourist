@@ -5,119 +5,75 @@
     build-mode="COLD"
     density="xhdpi"
     format="10"
-    ir-eligibility="R_CLASS_CHANGE"
     plugin-version="3.0.1"
-    timestamp="1533488010775"
-    token="5992031123156017270"
+    timestamp="1534922858640"
+    token="-2655861767497325950"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="5861" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="164" />
+        duration="0" />
     <task
         name="verifier"
-        duration="227" />
+        duration="0" />
 
     <artifact
-        location="E:\TouristAttractions\Application\build\intermediates\split-apk\debug\slices\slice_0.apk"
-        type="SPLIT" />
-    <artifact
-        location="E:\TouristAttractions\Application\build\intermediates\split-apk\debug\slices\slice_2.apk"
-        type="SPLIT" />
-    <artifact
-        location="E:\TouristAttractions\Application\build\intermediates\split-apk\debug\slices\slice_3.apk"
-        type="SPLIT" />
-    <artifact
-        location="E:\TouristAttractions\Application\build\intermediates\split-apk\debug\slices\slice_4.apk"
-        type="SPLIT" />
-    <artifact
-        location="E:\TouristAttractions\Application\build\intermediates\split-apk\debug\slices\slice_6.apk"
-        type="SPLIT" />
-    <artifact
-        location="E:\TouristAttractions\Application\build\intermediates\split-apk\debug\slices\slice_7.apk"
-        type="SPLIT" />
-    <artifact
-        location="E:\TouristAttractions\Application\build\intermediates\split-apk\debug\slices\slice_8.apk"
-        type="SPLIT" />
-    <artifact
-        location="E:\TouristAttractions\Application\build\outputs\apk\debug\Application-debug.apk"
+        location="F:\TouristAttractions\Application\build\outputs\apk\debug\Application-debug.apk"
         type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        timestamp="1533487465360"
+        timestamp="1534922584697"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="E:\TouristAttractions\Application\build\intermediates\split-apk\debug\slices\slice_0.apk"
+            location="F:\TouristAttractions\Application\build\intermediates\split-apk\debug\dep\dependencies.apk"
             type="SPLIT" />
         <artifact
-            location="E:\TouristAttractions\Application\build\intermediates\split-apk\debug\slices\slice_2.apk"
+            location="F:\TouristAttractions\Application\build\intermediates\split-apk\debug\slices\slice_0.apk"
             type="SPLIT" />
         <artifact
-            location="E:\TouristAttractions\Application\build\intermediates\split-apk\debug\slices\slice_3.apk"
+            location="F:\TouristAttractions\Application\build\intermediates\split-apk\debug\slices\slice_1.apk"
             type="SPLIT" />
         <artifact
-            location="E:\TouristAttractions\Application\build\intermediates\split-apk\debug\slices\slice_4.apk"
+            location="F:\TouristAttractions\Application\build\intermediates\split-apk\debug\slices\slice_2.apk"
             type="SPLIT" />
         <artifact
-            location="E:\TouristAttractions\Application\build\intermediates\split-apk\debug\slices\slice_6.apk"
+            location="F:\TouristAttractions\Application\build\intermediates\split-apk\debug\slices\slice_3.apk"
             type="SPLIT" />
         <artifact
-            location="E:\TouristAttractions\Application\build\intermediates\split-apk\debug\slices\slice_7.apk"
+            location="F:\TouristAttractions\Application\build\intermediates\split-apk\debug\slices\slice_4.apk"
             type="SPLIT" />
         <artifact
-            location="E:\TouristAttractions\Application\build\intermediates\split-apk\debug\slices\slice_8.apk"
+            location="F:\TouristAttractions\Application\build\intermediates\split-apk\debug\slices\slice_5.apk"
             type="SPLIT" />
         <artifact
-            location="E:\TouristAttractions\Application\build\outputs\apk\debug\Application-debug.apk"
+            location="F:\TouristAttractions\Application\build\intermediates\split-apk\debug\slices\slice_6.apk"
+            type="SPLIT" />
+        <artifact
+            location="F:\TouristAttractions\Application\build\intermediates\split-apk\debug\slices\slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="F:\TouristAttractions\Application\build\intermediates\split-apk\debug\slices\slice_8.apk"
+            type="SPLIT" />
+        <artifact
+            location="F:\TouristAttractions\Application\build\intermediates\split-apk\debug\slices\slice_9.apk"
+            type="SPLIT" />
+        <artifact
+            location="F:\TouristAttractions\Application\build\outputs\apk\debug\Application-debug.apk"
             type="SPLIT_MAIN" />
-        <artifact
-            location="E:\TouristAttractions\Application\build\intermediates\split-apk\debug\slices\slice_5.apk"
-            type="SPLIT" />
-        <artifact
-            location="E:\TouristAttractions\Application\build\intermediates\split-apk\debug\dep\dependencies.apk"
-            type="SPLIT" />
-        <artifact
-            location="E:\TouristAttractions\Application\build\intermediates\split-apk\debug\slices\slice_9.apk"
-            type="SPLIT" />
-        <artifact
-            location="E:\TouristAttractions\Application\build\intermediates\split-apk\debug\slices\slice_1.apk"
-            type="SPLIT" />
     </build>
     <build
         build-mode="COLD"
-        ir-eligibility="R_CLASS_CHANGE"
-        timestamp="1533488010775"
+        timestamp="1534922858640"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
-            location="E:\TouristAttractions\Application\build\intermediates\split-apk\debug\slices\slice_0.apk"
-            type="SPLIT" />
-        <artifact
-            location="E:\TouristAttractions\Application\build\intermediates\split-apk\debug\slices\slice_2.apk"
-            type="SPLIT" />
-        <artifact
-            location="E:\TouristAttractions\Application\build\intermediates\split-apk\debug\slices\slice_3.apk"
-            type="SPLIT" />
-        <artifact
-            location="E:\TouristAttractions\Application\build\intermediates\split-apk\debug\slices\slice_4.apk"
-            type="SPLIT" />
-        <artifact
-            location="E:\TouristAttractions\Application\build\intermediates\split-apk\debug\slices\slice_6.apk"
-            type="SPLIT" />
-        <artifact
-            location="E:\TouristAttractions\Application\build\intermediates\split-apk\debug\slices\slice_7.apk"
-            type="SPLIT" />
-        <artifact
-            location="E:\TouristAttractions\Application\build\intermediates\split-apk\debug\slices\slice_8.apk"
-            type="SPLIT" />
-        <artifact
-            location="E:\TouristAttractions\Application\build\outputs\apk\debug\Application-debug.apk"
+            location="F:\TouristAttractions\Application\build\outputs\apk\debug\Application-debug.apk"
             type="SPLIT_MAIN" />
     </build>
 

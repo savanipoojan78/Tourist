@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\TouristAttractions\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+            "outputFile": "F:\\TouristAttractions\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
             "map": [
                 {
                     "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\459b0870deddad7aaaa579c1b1f90971\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
@@ -23,34 +23,7 @@
                     }
                 },
                 {
-                    "source": "E:\\TouristAttractions\\Application\\src\\main\\res\\values-sw600dp\\dimens.xml",
-                    "from": {
-                        "startLines": "5,6,3,2,4",
-                        "startColumns": "4,4,4,4,4",
-                        "startOffsets": "155,199,67,19,112",
-                        "endColumns": "42,39,43,46,41",
-                        "endOffsets": "193,234,106,61,149"
-                    },
-                    "to": {
-                        "startLines": "19,20,21,22,23",
-                        "startColumns": "4,4,4,4,4",
-                        "startOffsets": "1238,1281,1321,1365,1412",
-                        "endColumns": "42,39,43,46,41",
-                        "endOffsets": "1276,1316,1360,1407,1449"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,124,193,263,337,413,472,543",
-                        "endColumns": "68,68,69,73,75,58,70,67",
-                        "endOffsets": "119,188,258,332,408,467,538,606"
-                    }
-                },
-                {
-                    "source": "E:\\TouristAttractions\\Application\\src\\main\\res\\values-sw600dp\\template-styles.xml",
+                    "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\values-sw600dp\\template-styles.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -69,7 +42,17 @@
                     }
                 },
                 {
-                    "source": "E:\\TouristAttractions\\Application\\src\\main\\res\\values-sw600dp\\template-dimens.xml",
+                    "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,124,193,263,337,413,472,543",
+                        "endColumns": "68,68,69,73,75,58,70,67",
+                        "endOffsets": "119,188,258,332,408,467,538,606"
+                    }
+                },
+                {
+                    "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\values-sw600dp\\template-dimens.xml",
                     "from": {
                         "startLines": "5,6",
                         "startColumns": "4,4",
@@ -83,6 +66,23 @@
                         "startOffsets": "1170,1454",
                         "endColumns": "67,67",
                         "endOffsets": "1233,1517"
+                    }
+                },
+                {
+                    "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "from": {
+                        "startLines": "5,6,3,2,4",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "155,199,67,19,112",
+                        "endColumns": "42,39,43,46,41",
+                        "endOffsets": "193,234,106,61,149"
+                    },
+                    "to": {
+                        "startLines": "19,20,21,22,23",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "1238,1281,1321,1365,1412",
+                        "endColumns": "42,39,43,46,41",
+                        "endOffsets": "1276,1316,1360,1407,1449"
                     }
                 }
             ]

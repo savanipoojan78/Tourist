@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\TouristAttractions\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-iw\\values-iw.xml",
+            "outputFile": "F:\\TouristAttractions\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-iw\\values-iw.xml",
             "map": [
                 {
                     "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-11.8.0.aar\\da25b527eba3448357697ad80239d944\\res\\values-iw\\values.xml",

@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\TouristAttractions\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+            "outputFile": "F:\\TouristAttractions\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
             "map": [
                 {
-                    "source": "E:\\TouristAttractions\\Application\\src\\main\\res\\values-v11\\template-styles.xml",
+                    "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\values-v11\\template-styles.xml",
                     "from": {
                         "startLines": "3",
                         "startColumns": "4",

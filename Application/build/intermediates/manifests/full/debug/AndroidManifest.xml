@@ -21,6 +21,7 @@
         android:required="true" />
 
     <application
+        android:name="com.example.android.xyztouristattractions.App"
         android:allowBackup="true"
         android:debuggable="true"
         android:fullBackupContent="true"

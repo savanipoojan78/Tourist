@@ -43,7 +43,7 @@ import com.example.android.xyztouristattractions.R;
 import com.example.android.xyztouristattractions.Attraction;
 import com.example.android.xyztouristattractions.Constants;
 import com.example.android.xyztouristattractions.Utils;
-import com.example.android.xyztouristattractions.splash_screen;
+//import com.example.android.xyztouristattractions.splash_screen;
 import com.google.android.gms.maps.model.LatLng;
 
 import java.util.List;
