@@ -1,9 +1,5 @@
 [
     {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_jaigarh.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xxhdpi\\jaigarh.png"
-    },
-    {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_light_focused.xml.flat",
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\6c1ba0e129b864a12b701b85721c42fa\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
     },
@@ -40,10 +36,6 @@
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\549c254055eed49f4f50f6be4b6ce0f9\\res\\raw\\amu_multiple_placemarks.kml"
     },
     {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_adalaj.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xxhdpi\\adalaj.png"
-    },
-    {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_mode_close_item_material.xml.flat",
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\layout\\abc_action_mode_close_item_material.xml"
     },
@@ -58,14 +50,6 @@
     {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_india_gate.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xxxhdpi\\india_gate.png"
-    },
-    {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_rajasthan.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xxxhdpi\\rajasthan.png"
     },
     {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_dark_normal.xml.flat",
@@ -100,10 +84,6 @@
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\549c254055eed49f4f50f6be4b6ce0f9\\res\\raw\\amu_ground_overlay_color.kml"
     },
     {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_tomb_of_i.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xxhdpi\\tomb_of_i.png"
-    },
-    {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_mehrangarh.png.flat",
         "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-hdpi\\mehrangarh.png"
     },
@@ -112,12 +92,12 @@
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\6c1ba0e129b864a12b701b85721c42fa\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
     },
     {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_rohtang.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xxxhdpi\\rohtang.png"
-    },
-    {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_full_open_on_phone.png.flat",
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\6c1ba0e129b864a12b701b85721c42fa\\res\\drawable-xhdpi-v4\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_elephanta.png.flat",
+        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-ldpi\\elephanta.png"
     },
     {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
@@ -184,10 +164,6 @@
         "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-mdpi\\tomb_of_i.png"
     },
     {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_jal_mahal_jaipur.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xxhdpi\\jal_mahal_jaipur.png"
-    },
-    {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_akshardham_angled.png.flat",
         "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-mdpi\\akshardham_angled.png"
     },
@@ -198,6 +174,10 @@
     {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d867fe426855a77b9596f076698593c6\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ranthambore.png.flat",
+        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-ldpi\\ranthambore.png"
     },
     {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\layout_abc_alert_dialog_title_material.xml.flat",
@@ -220,24 +200,16 @@
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
     },
     {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_dudhsagar.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xxxhdpi\\dudhsagar.png"
-    },
-    {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_mehrangarh.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xxhdpi\\mehrangarh.png"
-    },
-    {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\6c1ba0e129b864a12b701b85721c42fa\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
     },
     {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_menu_layout.xml.flat",
-        "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\layout\\abc_action_menu_layout.xml"
+        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_akshardham_angled.png.flat",
+        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-ldpi\\akshardham_angled.png"
     },
     {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_jim_corbett.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xxxhdpi\\jim_corbett.png"
+        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_menu_layout.xml.flat",
+        "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\layout\\abc_action_menu_layout.xml"
     },
     {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
@@ -254,6 +226,10 @@
     {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\drawable-mdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_konark.png.flat",
+        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-ldpi\\konark.png"
     },
     {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\layout_design_bottom_navigation_item.xml.flat",
@@ -278,10 +254,6 @@
     {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
-    },
-    {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_rajasthan.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xhdpi\\rajasthan.png"
     },
     {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
@@ -312,10 +284,6 @@
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\color\\abc_primary_text_material_dark.xml"
     },
     {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_akshardham_angled.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xhdpi\\akshardham_angled.png"
-    },
-    {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d867fe426855a77b9596f076698593c6\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
     },
@@ -344,12 +312,16 @@
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\drawable-xxhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
     },
     {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_adalaj.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xxxhdpi\\adalaj.png"
-    },
-    {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_selector_holo_dark.xml.flat",
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_red_fort.png.flat",
+        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-ldpi\\red_fort.png"
+    },
+    {
+        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_qutb.png.flat",
+        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-ldpi\\qutb.png"
     },
     {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
@@ -378,10 +350,6 @@
     {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable_ic_mic_black_24dp.xml.flat",
         "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable\\ic_mic_black_24dp.xml"
-    },
-    {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_city_palace.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xxxhdpi\\city_palace.png"
     },
     {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-v21_avd_hide_password.xml.flat",
@@ -448,10 +416,6 @@
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\color-v23\\abc_tint_switch_track.xml"
     },
     {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_lotus.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xhdpi\\lotus.png"
-    },
-    {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_city_palace.png.flat",
         "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-hdpi\\city_palace.png"
     },
@@ -492,6 +456,14 @@
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png"
     },
     {
+        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_periyar.png.flat",
+        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-ldpi\\periyar.png"
+    },
+    {
+        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_jantar_mantar.png.flat",
+        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-ldpi\\jantar_mantar.png"
+    },
+    {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\layout_amu_webview.xml.flat",
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\549c254055eed49f4f50f6be4b6ce0f9\\res\\layout\\amu_webview.xml"
     },
@@ -516,8 +488,8 @@
         "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-hdpi\\red_fort.png"
     },
     {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_red_fort.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xhdpi\\red_fort.png"
+        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_city_palace.png.flat",
+        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-ldpi\\city_palace.png"
     },
     {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
@@ -528,12 +500,12 @@
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\drawable\\abc_seekbar_track_material.xml"
     },
     {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_design_ic_visibility.png.flat",
-        "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\459b0870deddad7aaaa579c1b1f90971\\res\\drawable-xxxhdpi-v4\\design_ic_visibility.png"
+        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_kumbhalgarh.png.flat",
+        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-ldpi\\kumbhalgarh.png"
     },
     {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_golden_temple.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xhdpi\\golden_temple.png"
+        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_design_ic_visibility.png.flat",
+        "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\459b0870deddad7aaaa579c1b1f90971\\res\\drawable-xxxhdpi-v4\\design_ic_visibility.png"
     },
     {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
@@ -542,18 +514,6 @@
     {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_lotus.png.flat",
         "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-hdpi\\lotus.png"
-    },
-    {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_meenakshi.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xhdpi\\meenakshi.png"
-    },
-    {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_india_gate.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xhdpi\\india_gate.png"
-    },
-    {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_qutb.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xhdpi\\qutb.png"
     },
     {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_menu_item.xml.flat",
@@ -588,24 +548,12 @@
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\drawable\\abc_ic_voice_search_api_material.xml"
     },
     {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_jaisalmer_fort.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xxhdpi\\jaisalmer_fort.png"
-    },
-    {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_spinner.xml.flat",
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\color-v23\\abc_tint_spinner.xml"
     },
     {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_bk.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xxhdpi\\bk.png"
-    },
-    {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_time.xml.flat",
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d867fe426855a77b9596f076698593c6\\res\\layout\\notification_template_part_time.xml"
-    },
-    {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_somnath.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xhdpi\\somnath.png"
     },
     {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\layout_design_layout_snackbar.xml.flat",
@@ -652,24 +600,20 @@
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
     },
     {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
-        "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_36dp.png"
-    },
-    {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\layout_abc_activity_chooser_view.xml.flat",
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\layout\\abc_activity_chooser_view.xml"
     },
     {
+        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_jim_corbett.png.flat",
+        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-ldpi\\jim_corbett.png"
+    },
+    {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d867fe426855a77b9596f076698593c6\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
-    },
-    {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_amber_fort.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xhdpi\\amber_fort.png"
-    },
-    {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_jantar_mantar.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xxxhdpi\\jantar_mantar.png"
     },
     {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable_notification_tile_bg.xml.flat",
@@ -684,16 +628,8 @@
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\6c1ba0e129b864a12b701b85721c42fa\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
     },
     {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_havmor_restaurant.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xhdpi\\havmor_restaurant.png"
-    },
-    {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_googleg_standard_color_18.png.flat",
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\6c1ba0e129b864a12b701b85721c42fa\\res\\drawable-xxhdpi-v4\\googleg_standard_color_18.png"
-    },
-    {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_valley_flowers.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xxxhdpi\\valley_flowers.png"
     },
     {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_design_ic_visibility.png.flat",
@@ -706,10 +642,6 @@
     {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
-    },
-    {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_meenakshi.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xxxhdpi\\meenakshi.png"
     },
     {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
@@ -732,8 +664,12 @@
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_48dp.png"
     },
     {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_periyar.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xxxhdpi\\periyar.png"
+        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_rohtang.png.flat",
+        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-ldpi\\rohtang.png"
+    },
+    {
+        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_gate_way_of_india.png.flat",
+        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-ldpi\\gate_way_of_india.png"
     },
     {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
@@ -784,12 +720,8 @@
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_gate_way_of_india.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xxxhdpi\\gate_way_of_india.png"
-    },
-    {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_akshardham.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xxxhdpi\\akshardham.png"
+        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_hawa_mahal.png.flat",
+        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-ldpi\\hawa_mahal.png"
     },
     {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\layout_abc_tooltip.xml.flat",
@@ -832,20 +764,16 @@
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_36dp.png"
     },
     {
+        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_regenta.png.flat",
+        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-ldpi\\regenta.png"
+    },
+    {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\drawable-mdpi-v4\\abc_list_pressed_holo_dark.9.png"
     },
     {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media_custom.xml.flat",
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\7a911a03e2395c02d24012b1847e9116\\res\\layout\\notification_template_media_custom.xml"
-    },
-    {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_kumbhalgarh.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xxhdpi\\kumbhalgarh.png"
-    },
-    {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_india_gate.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xxhdpi\\india_gate.png"
     },
     {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
@@ -908,10 +836,6 @@
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
     },
     {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_regenta.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xxxhdpi\\regenta.png"
-    },
-    {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
     },
@@ -920,16 +844,16 @@
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\drawable-ldrtl-xxxhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
     },
     {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_rohtang.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xxhdpi\\rohtang.png"
-    },
-    {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_valley_flowers.png.flat",
         "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-hdpi\\valley_flowers.png"
     },
     {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_lotus.png.flat",
+        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-ldpi\\lotus.png"
     },
     {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
@@ -944,12 +868,20 @@
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\459b0870deddad7aaaa579c1b1f90971\\res\\layout\\design_menu_item_action_area.xml"
     },
     {
+        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_jal_mahal_jaipur.png.flat",
+        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-ldpi\\jal_mahal_jaipur.png"
+    },
+    {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-hdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\drawable-ldrtl-hdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\6c1ba0e129b864a12b701b85721c42fa\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_jama_masjid_4.png.flat",
+        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-ldpi\\jama_masjid_4.png"
     },
     {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
@@ -960,24 +892,12 @@
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\549c254055eed49f4f50f6be4b6ce0f9\\res\\raw\\amu_cdata.kml"
     },
     {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_elephanta.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xxhdpi\\elephanta.png"
-    },
-    {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\drawable-xhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
     },
     {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_konark.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xxhdpi\\konark.png"
-    },
-    {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\layout_select_dialog_singlechoice_material.xml.flat",
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\layout\\select_dialog_singlechoice_material.xml"
-    },
-    {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_adalaj.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xhdpi\\adalaj.png"
     },
     {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_elephanta.png.flat",
@@ -986,10 +906,6 @@
     {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\drawable-xxhdpi-v4\\abc_popup_background_mtrl_mult.9.png"
-    },
-    {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_amber_fort.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xxxhdpi\\amber_fort.png"
     },
     {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\color_switch_thumb_material_dark.xml.flat",
@@ -1016,10 +932,6 @@
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\549c254055eed49f4f50f6be4b6ce0f9\\res\\raw\\amu_visibility_ground_overlay.kml"
     },
     {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_jal_mahal_jaipur.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xxxhdpi\\jal_mahal_jaipur.png"
-    },
-    {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_meenakshi.png.flat",
         "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-hdpi\\meenakshi.png"
     },
@@ -1040,12 +952,8 @@
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\drawable-xxhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
     },
     {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_valley_flowers.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xxhdpi\\valley_flowers.png"
-    },
-    {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_jantar_mantar.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xxhdpi\\jantar_mantar.png"
+        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_jaisalmer_fort.png.flat",
+        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-ldpi\\jaisalmer_fort.png"
     },
     {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
@@ -1060,20 +968,8 @@
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\6c1ba0e129b864a12b701b85721c42fa\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
     },
     {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_tomb_of_i.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xhdpi\\tomb_of_i.png"
-    },
-    {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_rajasthan.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xxhdpi\\rajasthan.png"
-    },
-    {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable_abc_vector_test.xml.flat",
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\drawable\\abc_vector_test.xml"
-    },
-    {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_meenakshi.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xxhdpi\\meenakshi.png"
     },
     {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
@@ -1088,16 +984,12 @@
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d867fe426855a77b9596f076698593c6\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
     },
     {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\anim_design_snackbar_out.xml.flat",
-        "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\459b0870deddad7aaaa579c1b1f90971\\res\\anim\\design_snackbar_out.xml"
-    },
-    {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
     },
     {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_somnath.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xxhdpi\\somnath.png"
+        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\anim_design_snackbar_out.xml.flat",
+        "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\459b0870deddad7aaaa579c1b1f90971\\res\\anim\\design_snackbar_out.xml"
     },
     {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg_low.xml.flat",
@@ -1124,20 +1016,8 @@
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\drawable-hdpi-v4\\abc_list_focused_holo.9.png"
     },
     {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_jim_corbett.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xhdpi\\jim_corbett.png"
-    },
-    {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\color_abc_primary_text_material_light.xml.flat",
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\color\\abc_primary_text_material_light.xml"
-    },
-    {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_mehrangarh.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xxxhdpi\\mehrangarh.png"
-    },
-    {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ramada.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xhdpi\\ramada.png"
     },
     {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\raw_amu_extended_data.kml.flat",
@@ -1160,12 +1040,16 @@
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\459b0870deddad7aaaa579c1b1f90971\\res\\layout\\design_layout_tab_text.xml"
     },
     {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\layout_design_layout_snackbar_include.xml.flat",
-        "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\459b0870deddad7aaaa579c1b1f90971\\res\\layout\\design_layout_snackbar_include.xml"
+        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ajanta.png.flat",
+        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-ldpi\\ajanta.png"
     },
     {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_jaisalmer_fort.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xxxhdpi\\jaisalmer_fort.png"
+        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_valley_flowers.png.flat",
+        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-ldpi\\valley_flowers.png"
+    },
+    {
+        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\layout_design_layout_snackbar_include.xml.flat",
+        "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\459b0870deddad7aaaa579c1b1f90971\\res\\layout\\design_layout_snackbar_include.xml"
     },
     {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\layout_design_bottom_sheet_dialog.xml.flat",
@@ -1182,10 +1066,6 @@
     {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d867fe426855a77b9596f076698593c6\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
-    },
-    {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_gate_way_of_india.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xxhdpi\\gate_way_of_india.png"
     },
     {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bk.png.flat",
@@ -1220,20 +1100,8 @@
         "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\layout\\list_resturent.xml"
     },
     {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_regenta.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xhdpi\\regenta.png"
-    },
-    {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_hawa_mahal.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xhdpi\\hawa_mahal.png"
-    },
-    {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
-    },
-    {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_elephanta.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xxxhdpi\\elephanta.png"
     },
     {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-hdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
@@ -1252,10 +1120,6 @@
         "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\layout\\list_hotel.xml"
     },
     {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ramada.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xxhdpi\\ramada.png"
-    },
-    {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_dudhsagar.png.flat",
         "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-mdpi\\dudhsagar.png"
     },
@@ -1264,20 +1128,12 @@
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d867fe426855a77b9596f076698593c6\\res\\layout-v21\\notification_template_icon_group.xml"
     },
     {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_city_palace.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xhdpi\\city_palace.png"
-    },
-    {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_periyar.png.flat",
         "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-mdpi\\periyar.png"
     },
     {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable_abc_edit_text_material.xml.flat",
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\drawable\\abc_edit_text_material.xml"
-    },
-    {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ranthambore.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xxhdpi\\ranthambore.png"
     },
     {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_googleg_disabled_color_18.png.flat",
@@ -1300,20 +1156,12 @@
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\drawable\\abc_dialog_material_background.xml"
     },
     {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_lotus.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xxhdpi\\lotus.png"
-    },
-    {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_toolbar.xml.flat",
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\layout\\abc_screen_toolbar.xml"
     },
     {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\drawable-xxxhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
-    },
-    {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_valley_flowers.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xhdpi\\valley_flowers.png"
     },
     {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
@@ -1324,6 +1172,10 @@
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
     },
     {
+        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_mehrangarh.png.flat",
+        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-ldpi\\mehrangarh.png"
+    },
+    {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_design_ic_visibility_off.png.flat",
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\459b0870deddad7aaaa579c1b1f90971\\res\\drawable-mdpi-v4\\design_ic_visibility_off.png"
     },
@@ -1332,20 +1184,12 @@
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
     },
     {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_gate_way_of_india.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xhdpi\\gate_way_of_india.png"
-    },
-    {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
     },
     {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ratingbar_material.xml.flat",
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\drawable\\abc_ratingbar_material.xml"
-    },
-    {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_konark.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xhdpi\\konark.png"
     },
     {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_check_material.xml.flat",
@@ -1370,6 +1214,10 @@
     {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_meenakshi.png.flat",
+        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-ldpi\\meenakshi.png"
     },
     {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-v21_abc_edit_text_material.xml.flat",
@@ -1412,20 +1260,28 @@
         "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-hdpi\\golden_temple.png"
     },
     {
+        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_havmor_restaurant.png.flat",
+        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-ldpi\\havmor_restaurant.png"
+    },
+    {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\6c1ba0e129b864a12b701b85721c42fa\\res\\drawable-xhdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_rajasthan.png.flat",
+        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-ldpi\\rajasthan.png"
     },
     {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d867fe426855a77b9596f076698593c6\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
     },
     {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_dudhsagar.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xhdpi\\dudhsagar.png"
-    },
-    {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_akshardham.png.flat",
         "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-hdpi\\akshardham.png"
+    },
+    {
+        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_amber_fort.png.flat",
+        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-ldpi\\amber_fort.png"
     },
     {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
@@ -1504,10 +1360,6 @@
         "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-mdpi\\jim_corbett.png"
     },
     {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_taj_mahal.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xxxhdpi\\taj_mahal.png"
-    },
-    {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\drawable-xxhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
     },
@@ -1524,20 +1376,12 @@
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_kumbhalgarh.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xhdpi\\kumbhalgarh.png"
-    },
-    {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\drawable-mdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
     },
     {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_adalaj.png.flat",
         "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-mdpi\\adalaj.png"
-    },
-    {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_jal_mahal_jaipur.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xhdpi\\jal_mahal_jaipur.png"
     },
     {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
@@ -1550,10 +1394,6 @@
     {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tile.9.png.flat",
         "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-hdpi\\tile.9.png"
-    },
-    {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_akshardham.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xxhdpi\\akshardham.png"
     },
     {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
@@ -1598,10 +1438,6 @@
     {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_googleg_disabled_color_18.png.flat",
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\6c1ba0e129b864a12b701b85721c42fa\\res\\drawable-mdpi-v4\\googleg_disabled_color_18.png"
-    },
-    {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_lotus.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xxxhdpi\\lotus.png"
     },
     {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
@@ -1688,10 +1524,6 @@
         "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-hdpi\\hawa_mahal.png"
     },
     {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ramada.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xxxhdpi\\ramada.png"
-    },
-    {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\drawable-mdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
     },
@@ -1716,20 +1548,12 @@
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_48dp.png"
     },
     {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_jama_masjid_4.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xxxhdpi\\jama_masjid_4.png"
-    },
-    {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\drawable-mdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
     },
     {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_taj_mahal.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xhdpi\\taj_mahal.png"
     },
     {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_empty_photo.png.flat",
@@ -1788,16 +1612,8 @@
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
     },
     {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ajanta.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xxxhdpi\\ajanta.png"
-    },
-    {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
-    },
-    {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_hawa_mahal.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xxxhdpi\\hawa_mahal.png"
     },
     {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
@@ -1808,24 +1624,12 @@
         "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable\\ic_place_white_24dp.xml"
     },
     {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_periyar.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xhdpi\\periyar.png"
-    },
-    {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_design_ic_visibility.png.flat",
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\459b0870deddad7aaaa579c1b1f90971\\res\\drawable-hdpi-v4\\design_ic_visibility.png"
     },
     {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_jaisalmer_fort.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xhdpi\\jaisalmer_fort.png"
-    },
-    {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\6c1ba0e129b864a12b701b85721c42fa\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
-    },
-    {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_elephanta.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xhdpi\\elephanta.png"
     },
     {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_akshardham_angled.png.flat",
@@ -1844,20 +1648,8 @@
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
     },
     {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_rohtang.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xhdpi\\rohtang.png"
-    },
-    {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_amber_fort.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xxhdpi\\amber_fort.png"
-    },
-    {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\color_abc_primary_text_disable_only_material_dark.xml.flat",
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
-    },
-    {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ajanta.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xxhdpi\\ajanta.png"
     },
     {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-v23_abc_control_background_material.xml.flat",
@@ -1868,16 +1660,8 @@
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_48dp.png"
     },
     {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_akshardham_angled.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xxxhdpi\\akshardham_angled.png"
-    },
-    {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\drawable-mdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_qutb.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xxhdpi\\qutb.png"
     },
     {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
@@ -1888,20 +1672,20 @@
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\7a911a03e2395c02d24012b1847e9116\\res\\layout\\notification_template_big_media.xml"
     },
     {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_bk.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xhdpi\\bk.png"
-    },
-    {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_hawa_mahal.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xxhdpi\\hawa_mahal.png"
-    },
-    {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_black_36dp.png.flat",
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_36dp.png"
     },
     {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable_abc_cab_background_internal_bg.xml.flat",
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_dudhsagar.png.flat",
+        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-ldpi\\dudhsagar.png"
+    },
+    {
+        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ellora.png.flat",
+        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-ldpi\\ellora.png"
     },
     {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_pressed_holo_light.9.png.flat",
@@ -1976,8 +1760,8 @@
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\6c1ba0e129b864a12b701b85721c42fa\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
     },
     {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ajanta.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xhdpi\\ajanta.png"
+        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_akshardham.png.flat",
+        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-ldpi\\akshardham.png"
     },
     {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
@@ -1988,8 +1772,16 @@
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
     },
     {
+        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ramada.png.flat",
+        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-ldpi\\ramada.png"
+    },
+    {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_regenta.png.flat",
         "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-hdpi\\regenta.png"
+    },
+    {
+        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_golden_temple.png.flat",
+        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-ldpi\\golden_temple.png"
     },
     {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_action.xml.flat",
@@ -2016,14 +1808,6 @@
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\6c1ba0e129b864a12b701b85721c42fa\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
     },
     {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_havmor_restaurant.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xxhdpi\\havmor_restaurant.png"
-    },
-    {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_periyar.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xxhdpi\\periyar.png"
-    },
-    {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_amber_fort.png.flat",
         "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-hdpi\\amber_fort.png"
     },
@@ -2036,10 +1820,6 @@
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d867fe426855a77b9596f076698593c6\\res\\layout-v16\\notification_template_custom_big.xml"
     },
     {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_tomb_of_i.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xxxhdpi\\tomb_of_i.png"
-    },
-    {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_dark.xml.flat",
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\6c1ba0e129b864a12b701b85721c42fa\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
     },
@@ -2048,16 +1828,8 @@
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
     },
     {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ellora.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xxxhdpi\\ellora.png"
-    },
-    {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\anim_design_bottom_sheet_slide_out.xml.flat",
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\459b0870deddad7aaaa579c1b1f90971\\res\\anim\\design_bottom_sheet_slide_out.xml"
-    },
-    {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_jantar_mantar.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xhdpi\\jantar_mantar.png"
     },
     {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
@@ -2100,16 +1872,8 @@
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\layout\\support_simple_spinner_dropdown_item.xml"
     },
     {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_havmor_restaurant.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xxxhdpi\\havmor_restaurant.png"
-    },
-    {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\drawable-ldrtl-xhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
-    },
-    {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_red_fort.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xxxhdpi\\red_fort.png"
     },
     {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
@@ -2124,20 +1888,8 @@
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d867fe426855a77b9596f076698593c6\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
     },
     {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_akshardham_angled.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xxhdpi\\akshardham_angled.png"
-    },
-    {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ranthambore.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xxxhdpi\\ranthambore.png"
-    },
-    {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_agra.png.flat",
         "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-mdpi\\agra.png"
-    },
-    {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_agra.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xhdpi\\agra.png"
     },
     {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
@@ -2156,10 +1908,6 @@
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\459b0870deddad7aaaa579c1b1f90971\\res\\color-v23\\design_tint_password_toggle.xml"
     },
     {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_agra.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xxhdpi\\agra.png"
-    },
-    {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ellora.png.flat",
         "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-hdpi\\ellora.png"
     },
@@ -2176,20 +1924,12 @@
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\color\\abc_tint_spinner.xml"
     },
     {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_konark.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xxxhdpi\\konark.png"
-    },
-    {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
     },
     {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_cancel_action.xml.flat",
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\7a911a03e2395c02d24012b1847e9116\\res\\layout\\notification_media_cancel_action.xml"
-    },
-    {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_jama_masjid_4.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xxhdpi\\jama_masjid_4.png"
     },
     {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_item_separator.xml.flat",
@@ -2214,10 +1954,6 @@
     {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
-    },
-    {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_dudhsagar.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xxhdpi\\dudhsagar.png"
     },
     {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
@@ -2300,12 +2036,12 @@
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\7a911a03e2395c02d24012b1847e9116\\res\\layout\\notification_template_big_media_custom.xml"
     },
     {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_light_normal.xml.flat",
-        "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\6c1ba0e129b864a12b701b85721c42fa\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
-    },
-    {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_black_48dp.png.flat",
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_light_normal.xml.flat",
+        "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\6c1ba0e129b864a12b701b85721c42fa\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
     },
     {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\color_abc_tint_switch_track.xml.flat",
@@ -2324,16 +2060,8 @@
         "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-mdpi\\amber_fort.png"
     },
     {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_mehrangarh.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xhdpi\\mehrangarh.png"
-    },
-    {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow_custom.xml.flat",
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\7a911a03e2395c02d24012b1847e9116\\res\\layout\\notification_template_big_media_narrow_custom.xml"
-    },
-    {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_red_fort.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xxhdpi\\red_fort.png"
     },
     {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\anim_abc_grow_fade_in_from_bottom.xml.flat",
@@ -2346,10 +2074,6 @@
     {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_colored_material.xml.flat",
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\drawable\\abc_btn_colored_material.xml"
-    },
-    {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_taj_mahal.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xxhdpi\\taj_mahal.png"
     },
     {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_design_ic_visibility_off.png.flat",
@@ -2388,6 +2112,10 @@
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\drawable-xhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
     },
     {
+        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_agra.png.flat",
+        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-ldpi\\agra.png"
+    },
+    {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_default.xml.flat",
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\color-v23\\abc_tint_default.xml"
     },
@@ -2396,12 +2124,12 @@
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
     },
     {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
-        "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_somnath.png.flat",
+        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-ldpi\\somnath.png"
     },
     {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_jim_corbett.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xxhdpi\\jim_corbett.png"
+        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
     },
     {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
@@ -2428,16 +2156,20 @@
         "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-nodpi\\empty_photo.png"
     },
     {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_kumbhalgarh.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-hdpi\\kumbhalgarh.png"
-    },
-    {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\layout_amu_text_bubble.xml.flat",
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\549c254055eed49f4f50f6be4b6ce0f9\\res\\layout\\amu_text_bubble.xml"
     },
     {
+        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_kumbhalgarh.png.flat",
+        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-hdpi\\kumbhalgarh.png"
+    },
+    {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_black_48dp.png.flat",
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\drawable-hdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_india_gate.png.flat",
+        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-ldpi\\india_gate.png"
     },
     {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_half_black_36dp.png.flat",
@@ -2464,10 +2196,6 @@
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
     },
     {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_city_palace.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xxhdpi\\city_palace.png"
-    },
-    {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_disabled.xml.flat",
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\6c1ba0e129b864a12b701b85721c42fa\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
     },
@@ -2478,10 +2206,6 @@
     {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable_abc_item_background_holo_dark.xml.flat",
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\drawable\\abc_item_background_holo_dark.xml"
-    },
-    {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_golden_temple.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xxxhdpi\\golden_temple.png"
     },
     {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
@@ -2516,10 +2240,6 @@
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
     {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_kumbhalgarh.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xxxhdpi\\kumbhalgarh.png"
-    },
-    {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\drawable-xxhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
     },
@@ -2528,12 +2248,12 @@
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\drawable-mdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
     },
     {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_somnath.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-mdpi\\somnath.png"
-    },
-    {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\anim_abc_fade_in.xml.flat",
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_somnath.png.flat",
+        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-mdpi\\somnath.png"
     },
     {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_jaigarh.png.flat",
@@ -2562,10 +2282,6 @@
     {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-mdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\drawable-ldrtl-mdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
-    },
-    {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_jaigarh.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xxxhdpi\\jaigarh.png"
     },
     {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\transition-v21_window_enter.xml.flat",
@@ -2624,10 +2340,6 @@
         "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     },
     {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ellora.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xxhdpi\\ellora.png"
-    },
-    {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_black_16dp.png.flat",
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png"
     },
@@ -2640,12 +2352,12 @@
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\drawable-ldrtl-xxxhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxxhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
-        "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\drawable-ldrtl-xxxhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
-    },
-    {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_pressed_holo_light.9.png.flat",
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxxhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\drawable-ldrtl-xxxhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
@@ -2720,10 +2432,6 @@
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\anim\\abc_fade_out.xml"
     },
     {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ranthambore.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xhdpi\\ranthambore.png"
-    },
-    {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-v21_abc_action_bar_item_background_material.xml.flat",
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
     },
@@ -2772,16 +2480,12 @@
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\anim\\abc_tooltip_enter.xml"
     },
     {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_jama_masjid_4.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xhdpi\\jama_masjid_4.png"
-    },
-    {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_somnath.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xxxhdpi\\somnath.png"
-    },
-    {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\drawable-ldrtl-xxhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_taj_mahal.png.flat",
+        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-ldpi\\taj_mahal.png"
     },
     {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
@@ -2796,6 +2500,10 @@
         "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
+        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_jaigarh.png.flat",
+        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-ldpi\\jaigarh.png"
+    },
+    {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ranthambore.png.flat",
         "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-hdpi\\ranthambore.png"
     },
@@ -2808,16 +2516,8 @@
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_16dp.png"
     },
     {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_akshardham.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xhdpi\\akshardham.png"
-    },
-    {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\layout_fragment_main.xml.flat",
         "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\layout\\fragment_main.xml"
-    },
-    {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_qutb.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xxxhdpi\\qutb.png"
     },
     {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_design_ic_visibility_off.png.flat",
@@ -2836,6 +2536,10 @@
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
     },
     {
+        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_tomb_of_i.png.flat",
+        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-ldpi\\tomb_of_i.png"
+    },
+    {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_ab_back_material.xml.flat",
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\drawable\\abc_ic_ab_back_material.xml"
     },
@@ -2844,20 +2548,16 @@
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\6c1ba0e129b864a12b701b85721c42fa\\res\\color\\common_google_signin_btn_text_dark.xml"
     },
     {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_selector_background_transition_holo_light.xml.flat",
-        "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
-    },
-    {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\6c1ba0e129b864a12b701b85721c42fa\\res\\drawable-xhdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
     },
     {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
-        "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
+        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_selector_background_transition_holo_light.xml.flat",
+        "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
     },
     {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_regenta.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xxhdpi\\regenta.png"
+        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
+        "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
     },
     {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\color_abc_secondary_text_material_dark.xml.flat",
@@ -2876,16 +2576,8 @@
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d867fe426855a77b9596f076698593c6\\res\\drawable-v21\\notification_action_background.xml"
     },
     {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ellora.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xhdpi\\ellora.png"
-    },
-    {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
-    },
-    {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_golden_temple.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xxhdpi\\golden_temple.png"
     },
     {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_rohtang.png.flat",
@@ -2898,6 +2590,10 @@
     {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_red_fort.png.flat",
         "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-mdpi\\red_fort.png"
+    },
+    {
+        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_adalaj.png.flat",
+        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-ldpi\\adalaj.png"
     },
     {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_googleg_standard_color_18.png.flat",
@@ -2924,16 +2620,8 @@
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c39275fd68f679cd26a6222b02019ce7\\res\\drawable\\tooltip_frame_dark.xml"
     },
     {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_bk.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xxxhdpi\\bk.png"
-    },
-    {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_icon_group.xml.flat",
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d867fe426855a77b9596f076698593c6\\res\\layout\\notification_template_icon_group.xml"
-    },
-    {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_jaigarh.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xhdpi\\jaigarh.png"
     },
     {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\color_abc_search_url_text.xml.flat",
@@ -2946,10 +2634,6 @@
     {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_item.xml.flat",
         "source": "C:\\Users\\POOJAN\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\459b0870deddad7aaaa579c1b1f90971\\res\\layout\\design_navigation_item.xml"
-    },
-    {
-        "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_agra.png.flat",
-        "source": "F:\\TouristAttractions\\Application\\src\\main\\res\\drawable-xxxhdpi\\agra.png"
     },
     {
         "merged": "F:\\TouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",

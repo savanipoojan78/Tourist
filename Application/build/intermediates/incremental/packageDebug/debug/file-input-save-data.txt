@@ -1,10 +1,10 @@
 #Internal package file, do not edit.
-#Wed Aug 22 12:57:44 IST 2018
-2.base=F\:\\TouristAttractions\\Application\\build\\intermediates\\transforms\\dexMerger\\debug\\12
+#Thu Aug 23 17:16:46 IST 2018
+2.base=F\:\\TouristAttractions\\Application\\build\\intermediates\\transforms\\dexMerger\\debug\\15
 5.set=DEX
 0.path=classes.dex
 2.baseType=DIRECTORY
-3.base=F\:\\TouristAttractions\\Application\\build\\intermediates\\transforms\\dexMerger\\debug\\17
+3.base=F\:\\TouristAttractions\\Application\\build\\intermediates\\transforms\\dexMerger\\debug\\12
 2.set=DEX
 1.path=classes.dex
 4.base=F\:\\TouristAttractions\\Application\\build\\intermediates\\transforms\\dexMerger\\debug\\14
@@ -19,9 +19,9 @@ count=6
 4.path=classes.dex
 1.baseType=DIRECTORY
 5.path=classes.dex
-0.base=F\:\\TouristAttractions\\Application\\build\\intermediates\\transforms\\dexMerger\\debug\\13
+0.base=F\:\\TouristAttractions\\Application\\build\\intermediates\\transforms\\dexMerger\\debug\\11
 0.baseType=DIRECTORY
 3.set=DEX
-1.base=F\:\\TouristAttractions\\Application\\build\\intermediates\\transforms\\dexMerger\\debug\\15
+1.base=F\:\\TouristAttractions\\Application\\build\\intermediates\\transforms\\dexMerger\\debug\\13
 4.baseType=DIRECTORY
 0.set=DEX

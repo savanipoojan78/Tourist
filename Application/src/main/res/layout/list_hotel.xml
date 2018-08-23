@@ -15,6 +15,7 @@
             android:layout_height="match_parent"
             android:scaleType="centerCrop"
             android:src="@drawable/empty_photo"
+            android:contentDescription="Image_of_one_hotel"
             android:transitionName="image" />
 
         <TextView

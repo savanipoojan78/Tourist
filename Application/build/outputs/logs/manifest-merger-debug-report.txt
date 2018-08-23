@@ -3,30 +3,30 @@ manifest
 ADDED from F:\TouristAttractions\Application\src\main\AndroidManifest.xml:2:1-55:12
 INJECTED from F:\TouristAttractions\Application\src\main\AndroidManifest.xml:2:1-55:12
 INJECTED from F:\TouristAttractions\Application\src\main\AndroidManifest.xml:2:1-55:12
-MERGED from [com.google.android.gms:play-services-location:11.8.0] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\play-services-location-11.8.0.aar\b083150f47ecc93b99bc3a5704aeb630\AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\549c254055eed49f4f50f6be4b6ce0f9\AndroidManifest.xml:2:1-13:12
 MERGED from [com.android.support:design:27.1.0] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\design-27.1.0.aar\459b0870deddad7aaaa579c1b1f90971\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\c39275fd68f679cd26a6222b02019ce7\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\5b4528a3afe88e791728dcc37f9a2d28\AndroidManifest.xml:17:1-22:12
-MERGED from [com.google.android.gms:play-services-wearable:11.8.0] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\play-services-wearable-11.8.0.aar\e20f28c5e42cc0faedcf4d6624114cde\AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:support-v13:27.1.0] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\support-v13-27.1.0.aar\b0e74b454102d404de47cc072f7a5637\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-location:11.8.0] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\play-services-location-11.8.0.aar\b083150f47ecc93b99bc3a5704aeb630\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\b7d48494873045d29c039d7eabbb48a2\AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-wearable:11.8.0] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\play-services-wearable-11.8.0.aar\e20f28c5e42cc0faedcf4d6624114cde\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\6c1ba0e129b864a12b701b85721c42fa\AndroidManifest.xml:17:1-29:12
 MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\e70717602f5aa2ae846ab20abcc1c166\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\da25b527eba3448357697ad80239d944\AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:support-v4:27.1.1] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\6ab989aace60f4aad322ecd2e22dd4d5\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\9154685ca772ad3a891a3643f6e6fad5\AndroidManifest.xml:2:1-11:12
-MERGED from [com.google.android.gms:play-services-location-license:11.8.0] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\play-services-location-license-11.8.0.aar\b4ea8a3fc6d9263d14997b63f6cac3fb\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\549c254055eed49f4f50f6be4b6ce0f9\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\c39275fd68f679cd26a6222b02019ce7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\5b4528a3afe88e791728dcc37f9a2d28\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\78f343f1fb4ac13ba3dc45bb77d172b9\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\90c15db7971276506ffd34519613597c\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:transition:27.1.0] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\transition-27.1.0.aar\6b34d511cb3ea8ac967a594901b58c4d\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\7a911a03e2395c02d24012b1847e9116\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\7dfa22fbf3711dbb1182cd8e6dc125e7\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\34a94dfc4b934ccfdcf3032aa026848f\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\2a519054e3da82113cd91926434e3779\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\7a911a03e2395c02d24012b1847e9116\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-compat:27.1.1] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\d867fe426855a77b9596f076698593c6\AndroidManifest.xml:17:1-22:12
-MERGED from [com.google.android.gms:play-services-wearable-license:11.8.0] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\play-services-wearable-license-11.8.0.aar\deafa6424c51e102a6d30997680b9199\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\play-services-location-license-11.8.0.aar\b4ea8a3fc6d9263d14997b63f6cac3fb\AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.8.0.aar\d89a58180a03e5fe2eeb8aa5b3bb4773\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-wearable-license:11.8.0] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\play-services-wearable-license-11.8.0.aar\deafa6424c51e102a6d30997680b9199\AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.8.0.aar\d6bc1c13d9c4528e0a45b20fab2162c9\AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\ee646986661df3adeff28ba4b3c2bd36\AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\540cc79e1fb20e4bfa7e724e5010aa4b\AndroidManifest.xml:2:1-6:12
@@ -84,12 +84,10 @@ application
 ADDED from F:\TouristAttractions\Application\src\main\AndroidManifest.xml:17:5-53:19
 MERGED from [com.google.android.gms:play-services-location:11.8.0] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\play-services-location-11.8.0.aar\b083150f47ecc93b99bc3a5704aeb630\AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-location:11.8.0] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\play-services-location-11.8.0.aar\b083150f47ecc93b99bc3a5704aeb630\AndroidManifest.xml:7:5-20
-MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\549c254055eed49f4f50f6be4b6ce0f9\AndroidManifest.xml:7:5-11:19
-MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\549c254055eed49f4f50f6be4b6ce0f9\AndroidManifest.xml:7:5-11:19
-MERGED from [com.google.android.gms:play-services-wearable:11.8.0] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\play-services-wearable-11.8.0.aar\e20f28c5e42cc0faedcf4d6624114cde\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-wearable:11.8.0] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\play-services-wearable-11.8.0.aar\e20f28c5e42cc0faedcf4d6624114cde\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\b7d48494873045d29c039d7eabbb48a2\AndroidManifest.xml:30:5-20
 MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\b7d48494873045d29c039d7eabbb48a2\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-wearable:11.8.0] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\play-services-wearable-11.8.0.aar\e20f28c5e42cc0faedcf4d6624114cde\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable:11.8.0] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\play-services-wearable-11.8.0.aar\e20f28c5e42cc0faedcf4d6624114cde\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\6c1ba0e129b864a12b701b85721c42fa\AndroidManifest.xml:22:5-27:19
 MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\6c1ba0e129b864a12b701b85721c42fa\AndroidManifest.xml:22:5-27:19
 MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\e70717602f5aa2ae846ab20abcc1c166\AndroidManifest.xml:7:5-20
@@ -98,12 +96,14 @@ MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\POOJ
 MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\da25b527eba3448357697ad80239d944\AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\9154685ca772ad3a891a3643f6e6fad5\AndroidManifest.xml:9:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\9154685ca772ad3a891a3643f6e6fad5\AndroidManifest.xml:9:5-20
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\549c254055eed49f4f50f6be4b6ce0f9\AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\549c254055eed49f4f50f6be4b6ce0f9\AndroidManifest.xml:7:5-11:19
 MERGED from [com.google.android.gms:play-services-location-license:11.8.0] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\play-services-location-license-11.8.0.aar\b4ea8a3fc6d9263d14997b63f6cac3fb\AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services-location-license:11.8.0] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\play-services-location-license-11.8.0.aar\b4ea8a3fc6d9263d14997b63f6cac3fb\AndroidManifest.xml:5:5-20
-MERGED from [com.google.android.gms:play-services-wearable-license:11.8.0] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\play-services-wearable-license-11.8.0.aar\deafa6424c51e102a6d30997680b9199\AndroidManifest.xml:5:5-20
-MERGED from [com.google.android.gms:play-services-wearable-license:11.8.0] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\play-services-wearable-license-11.8.0.aar\deafa6424c51e102a6d30997680b9199\AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.8.0.aar\d89a58180a03e5fe2eeb8aa5b3bb4773\AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.8.0.aar\d89a58180a03e5fe2eeb8aa5b3bb4773\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-wearable-license:11.8.0] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\play-services-wearable-license-11.8.0.aar\deafa6424c51e102a6d30997680b9199\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-wearable-license:11.8.0] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\play-services-wearable-license-11.8.0.aar\deafa6424c51e102a6d30997680b9199\AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.8.0.aar\d6bc1c13d9c4528e0a45b20fab2162c9\AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.8.0.aar\d6bc1c13d9c4528e0a45b20fab2162c9\AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\ee646986661df3adeff28ba4b3c2bd36\AndroidManifest.xml:5:5-20
@@ -148,10 +148,10 @@ ADDED from F:\TouristAttractions\Application\src\main\AndroidManifest.xml:37:9-5
 		ADDED from F:\TouristAttractions\Application\src\main\AndroidManifest.xml:37:18-56
 meta-data#com.google.android.gms.version
 ADDED from F:\TouristAttractions\Application\src\main\AndroidManifest.xml:39:9-41:69
-MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\549c254055eed49f4f50f6be4b6ce0f9\AndroidManifest.xml:8:9-10:69
-MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\549c254055eed49f4f50f6be4b6ce0f9\AndroidManifest.xml:8:9-10:69
 MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\da25b527eba3448357697ad80239d944\AndroidManifest.xml:23:9-25:69
 MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\da25b527eba3448357697ad80239d944\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\549c254055eed49f4f50f6be4b6ce0f9\AndroidManifest.xml:8:9-10:69
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\549c254055eed49f4f50f6be4b6ce0f9\AndroidManifest.xml:8:9-10:69
 	android:value
 		ADDED from F:\TouristAttractions\Application\src\main\AndroidManifest.xml:41:13-66
 	android:name
@@ -180,22 +180,16 @@ uses-sdk
 INJECTED from F:\TouristAttractions\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from F:\TouristAttractions\Application\src\main\AndroidManifest.xml
 INJECTED from F:\TouristAttractions\Application\src\main\AndroidManifest.xml
-MERGED from [com.google.android.gms:play-services-location:11.8.0] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\play-services-location-11.8.0.aar\b083150f47ecc93b99bc3a5704aeb630\AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-location:11.8.0] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\play-services-location-11.8.0.aar\b083150f47ecc93b99bc3a5704aeb630\AndroidManifest.xml:5:5-44
-MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\549c254055eed49f4f50f6be4b6ce0f9\AndroidManifest.xml:5:5-43
-MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\549c254055eed49f4f50f6be4b6ce0f9\AndroidManifest.xml:5:5-43
 MERGED from [com.android.support:design:27.1.0] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\design-27.1.0.aar\459b0870deddad7aaaa579c1b1f90971\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:design:27.1.0] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\design-27.1.0.aar\459b0870deddad7aaaa579c1b1f90971\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\c39275fd68f679cd26a6222b02019ce7\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\c39275fd68f679cd26a6222b02019ce7\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\5b4528a3afe88e791728dcc37f9a2d28\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\5b4528a3afe88e791728dcc37f9a2d28\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-wearable:11.8.0] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\play-services-wearable-11.8.0.aar\e20f28c5e42cc0faedcf4d6624114cde\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-wearable:11.8.0] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\play-services-wearable-11.8.0.aar\e20f28c5e42cc0faedcf4d6624114cde\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-v13:27.1.0] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\support-v13-27.1.0.aar\b0e74b454102d404de47cc072f7a5637\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-v13:27.1.0] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\support-v13-27.1.0.aar\b0e74b454102d404de47cc072f7a5637\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:11.8.0] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\play-services-location-11.8.0.aar\b083150f47ecc93b99bc3a5704aeb630\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:11.8.0] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\play-services-location-11.8.0.aar\b083150f47ecc93b99bc3a5704aeb630\AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\b7d48494873045d29c039d7eabbb48a2\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\b7d48494873045d29c039d7eabbb48a2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable:11.8.0] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\play-services-wearable-11.8.0.aar\e20f28c5e42cc0faedcf4d6624114cde\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable:11.8.0] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\play-services-wearable-11.8.0.aar\e20f28c5e42cc0faedcf4d6624114cde\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\6c1ba0e129b864a12b701b85721c42fa\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\6c1ba0e129b864a12b701b85721c42fa\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\e70717602f5aa2ae846ab20abcc1c166\AndroidManifest.xml:5:5-44
@@ -206,28 +200,34 @@ MERGED from [com.android.support:support-v4:27.1.1] C:\Users\POOJAN\.gradle\cach
 MERGED from [com.android.support:support-v4:27.1.1] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\6ab989aace60f4aad322ecd2e22dd4d5\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\9154685ca772ad3a891a3643f6e6fad5\AndroidManifest.xml:5:5-7:41
 MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\9154685ca772ad3a891a3643f6e6fad5\AndroidManifest.xml:5:5-7:41
-MERGED from [com.google.android.gms:play-services-location-license:11.8.0] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\play-services-location-license-11.8.0.aar\b4ea8a3fc6d9263d14997b63f6cac3fb\AndroidManifest.xml:4:5-43
-MERGED from [com.google.android.gms:play-services-location-license:11.8.0] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\play-services-location-license-11.8.0.aar\b4ea8a3fc6d9263d14997b63f6cac3fb\AndroidManifest.xml:4:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\549c254055eed49f4f50f6be4b6ce0f9\AndroidManifest.xml:5:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\549c254055eed49f4f50f6be4b6ce0f9\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\c39275fd68f679cd26a6222b02019ce7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\c39275fd68f679cd26a6222b02019ce7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\5b4528a3afe88e791728dcc37f9a2d28\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\5b4528a3afe88e791728dcc37f9a2d28\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\78f343f1fb4ac13ba3dc45bb77d172b9\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\78f343f1fb4ac13ba3dc45bb77d172b9\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\90c15db7971276506ffd34519613597c\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\90c15db7971276506ffd34519613597c\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:transition:27.1.0] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\transition-27.1.0.aar\6b34d511cb3ea8ac967a594901b58c4d\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:transition:27.1.0] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\transition-27.1.0.aar\6b34d511cb3ea8ac967a594901b58c4d\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\7a911a03e2395c02d24012b1847e9116\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\7a911a03e2395c02d24012b1847e9116\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\7dfa22fbf3711dbb1182cd8e6dc125e7\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\7dfa22fbf3711dbb1182cd8e6dc125e7\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\34a94dfc4b934ccfdcf3032aa026848f\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\34a94dfc4b934ccfdcf3032aa026848f\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\2a519054e3da82113cd91926434e3779\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\2a519054e3da82113cd91926434e3779\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\7a911a03e2395c02d24012b1847e9116\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\7a911a03e2395c02d24012b1847e9116\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-compat:27.1.1] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\d867fe426855a77b9596f076698593c6\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-compat:27.1.1] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\d867fe426855a77b9596f076698593c6\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-wearable-license:11.8.0] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\play-services-wearable-license-11.8.0.aar\deafa6424c51e102a6d30997680b9199\AndroidManifest.xml:4:5-43
-MERGED from [com.google.android.gms:play-services-wearable-license:11.8.0] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\play-services-wearable-license-11.8.0.aar\deafa6424c51e102a6d30997680b9199\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\play-services-location-license-11.8.0.aar\b4ea8a3fc6d9263d14997b63f6cac3fb\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\play-services-location-license-11.8.0.aar\b4ea8a3fc6d9263d14997b63f6cac3fb\AndroidManifest.xml:4:5-43
 MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.8.0.aar\d89a58180a03e5fe2eeb8aa5b3bb4773\AndroidManifest.xml:4:5-43
 MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.8.0.aar\d89a58180a03e5fe2eeb8aa5b3bb4773\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-wearable-license:11.8.0] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\play-services-wearable-license-11.8.0.aar\deafa6424c51e102a6d30997680b9199\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-wearable-license:11.8.0] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\play-services-wearable-license-11.8.0.aar\deafa6424c51e102a6d30997680b9199\AndroidManifest.xml:4:5-43
 MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.8.0.aar\d6bc1c13d9c4528e0a45b20fab2162c9\AndroidManifest.xml:4:5-43
 MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.8.0.aar\d6bc1c13d9c4528e0a45b20fab2162c9\AndroidManifest.xml:4:5-43
 MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\POOJAN\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\ee646986661df3adeff28ba4b3c2bd36\AndroidManifest.xml:4:5-43

@@ -16,7 +16,8 @@
             android:layout_height="match_parent"
             android:src="@drawable/empty_photo"
             android:scaleType="centerCrop"
-            android:transitionName="image" />
+            android:transitionName="image"
+            android:contentDescription="list_of_one_location"/>
 
         <TextView
             android:id="@+id/overlaytext"

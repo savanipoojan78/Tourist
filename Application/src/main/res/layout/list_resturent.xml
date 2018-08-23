@@ -15,7 +15,8 @@
             android:layout_height="match_parent"
             android:scaleType="centerCrop"
             android:src="@drawable/empty_photo"
-            android:transitionName="image" />
+            android:transitionName="image"
+            android:contentDescription="image_of_one_restaurent"/>
 
         <TextView
             android:id="@+id/overlaytext"

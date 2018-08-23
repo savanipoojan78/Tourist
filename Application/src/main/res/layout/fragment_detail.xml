@@ -18,7 +18,8 @@
             android:layout_height="0dp"
             android:layout_weight="50"
             android:scaleType="centerCrop"
-            android:transitionName="image" />
+            android:transitionName="image"
+            android:contentDescription="ffragmentdetail"/>
 
         <LinearLayout
             android:id="@+id/textLayout"
@@ -80,6 +81,7 @@
         android:layout_marginStart="@dimen/fab_margin"
         android:clickable="true"
         android:src="@drawable/ic_action_map"
+        android:contentDescription="map_the_location"
         app:layout_anchor="@id/textLayout"
         app:layout_anchorGravity="bottom|start"
         app:rippleColor="@color/colorFabRipple" />
@@ -91,6 +93,7 @@
         android:layout_marginEnd="@dimen/fab_margin"
         android:clickable="true"
         android:src="@drawable/ic_volume_up_black_24dp"
+        android:contentDescription="TExt_to_speech"
         android:tint="@color/white"
         app:layout_anchor="@id/imageView"
         app:layout_anchorGravity="bottom|end"
