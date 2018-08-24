@@ -129,6 +129,31 @@
                                     "Child friendly"</string>
     <string name="rajasthanpalace">Rajasthan Palace</string>
     <string name="state">Ahmedabad</string>
+    <string name="lat">lat</string>
+    <string name="lng">lng</string>
+    <string name="km">km</string>
+    <string name="m">m</string>
+    <string name="Hi">Hi</string>
+    <string name="message">please tell me, your location</string>
+    <string name="NOengine">No Engine</string>
+    <string name="english">en</string>
+    <string name="indialan">IN</string>
+    <string name="speck">Hello,Friends I am Your Tourist Guide ,Can You Tell Me your Name?</string>
+    <string name="permission">Permission denied to get Account</string>
+    <string name="failed">Failed to connect to GoogleApiClient (error code = %d)</string>
+    <string name="geo">geo:0,0?q=</string>
+    <string name="attrac">attraction</string>
+    <string name="xscale">scaleX</string>
+    <string name="attt">attraction</string>
+    <string name="yscale">scaleY</string>
+    <string name="hotelf">hotel</string>
+
+    <string name="indianlag">IN</string>
+    <string name="geofence_tri">geofence_triggered</string>
+    <string name="location_updated">location_updated</string>
+    <string name="request_location">request_location</string>
+    <string name="addgeo">add_geofences</string>
+    <string name="cityin">Dehli</string>
 
 
 </resources>
